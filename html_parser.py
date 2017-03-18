@@ -69,7 +69,7 @@ def get_text_from_element(root, main_element_tag, properties_tags, json_data):
         elif ".//div[@class='mainArticle clearfix']/article" == main_element_tag:
             data = "".join(element[0].findall(".//" + properties_tags[1])[0].itertext()).strip()
             data = data.replace("None", "")
-            json_data[properties_tags[0][0]] = data
+            json_data[properties_tags[0]] = data
 
 
 def main():
