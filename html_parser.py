@@ -2,7 +2,7 @@ from lxml.html import fromstring
 from codecs import open
 from os import listdir, makedirs
 from os.path import isfile, join, exists
-from json import  loads, dumps
+from json import dumps
 
 HTML_PAGES_DIR = r"html_pages"
 ARTICLES_DIR = r"Articles"
@@ -14,11 +14,11 @@ def open_file_to_read(path):
         with open(path, 'r', encoding='utf8') as f:
             file_data = f.read()
     except FileNotFoundError as e:
-        exit("Error: File not found error({0}): {1}".format(e.errno, e.strerror))
+        exit("Error: File not found error({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
     except PermissionError as e:
-        exit("Error: Permission denied({0}): {1}".format(e.errno, e.strerror))
+        exit("Error: Permission denied({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
     except:
-        exit("Error: Unable to create the file!")
+        exit("Error: Unable to create the file!\nThe path file is {0}".format(path))
 
     return file_data
 
@@ -43,29 +43,35 @@ def get_text_from_element(root, properties_tags, element_tag, iter_text, json_da
     # Find the element the name thg as *element_tag*
     element = root.findall(element_tag)
 
-    if iter_text:
-        data = "".join(element[0].itertext()).strip()
-    else:
-        data = "".join(str(element.text)).strip()
+    if element.__len__() != 0:
+        if ".//div[@class='storyTitle']" == element_tag:
+            data = "".join(element[0].itertext()).strip()
 
-    if ".//div[@class='storyTitle']" == element_tag:
-        data = data.split('\n')
-        json_data[properties_tags[0]] = data[0].strip()
-        json_data[properties_tags[1]] = data[1].split('|')[0].strip()
-        json_data[properties_tags[2]] = data[1].split('|')[1].split(":")[1].strip()
-        json_data[properties_tags[3]] = ""
-        if data.__len__() == 3:
-            json_data[properties_tags[3]] = data[2].split(":")[1].strip()
-    elif ".//div[@class='mainArticle clearfix']/section[@id='examples']" == element_tag:
-        data = data.split('\n')
-        json_data[properties_tags[0]] = data[0].strip()
-        introduction_text = ""
-        for i in range(1, data.__len__() - 1):
-            if data[i] is not "":
-                introduction_text += data[i].strip()
-        json_data[properties_tags[1]] = introduction_text
-    elif ".//div[@class='mainArticle clearfix']/article/p" == element_tag:
-        json_data[properties_tags] = data
+            data = data.split('\n')
+            json_data[properties_tags[0]] = data[0].strip()
+            json_data[properties_tags[1]] = data[1].split('|')[0].strip()
+            json_data[properties_tags[2]] = data[1].split('|')[1].split(":")[1].strip()
+            json_data[properties_tags[3]] = ""
+            if data.__len__() == 3:
+                json_data[properties_tags[3]] = data[2].split(":")[1].strip()
+
+        elif ".//div[@class='mainArticle clearfix']/section[@id='examples']" == element_tag:
+            data = "".join(element[0].itertext()).strip()
+            data = data.split('\n')
+            json_data[properties_tags[0]] = data[0].strip()
+            introduction_text = ""
+            for i in range(1, data.__len__() - 1):
+                if data[i] is not "":
+                    introduction_text += data[i].strip()
+            json_data[properties_tags[1]] = introduction_text
+
+        elif ".//div[@class='mainArticle clearfix']/article" == element_tag:
+            element = element[0].findall(".//p")
+            for idx in range(0, element.__len__()):
+                data += "".join(str(element[idx].text)).strip()
+
+            data = data.replace("None", "")
+            json_data[properties_tags] = data
 
 
 def main():
@@ -74,7 +80,7 @@ def main():
                        and join(HTML_PAGES_DIR, html_file).split(".")[-1] == "html"]
     tags_list = [(('Article-name', 'Author', 'Language', 'Translation'), ".//div[@class='storyTitle']", True),
                  (('Introduction-title', 'Introduction-Text'), ".//div[@class='mainArticle clearfix']/section[@id='examples']", True),
-                 ('Article-Text', ".//div[@class='mainArticle clearfix']/article/p", True)]
+                 ('Article-Text', ".//div[@class='mainArticle clearfix']/article", True)]
 
     for html_file in html_files_list:
         json_data = {}
