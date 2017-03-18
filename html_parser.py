@@ -38,59 +38,62 @@ def check_exists_folder_and_create(folder_path):
         makedirs(folder_path)
 
 
-def get_text_from_element(root, properties_tags, element_tag, iter_text, json_data):
+def get_text_from_element(root, main_element_tag, properties_tags, json_data):
     data = ""
-    # Find the element the name thg as *element_tag*
-    element = root.findall(element_tag)
+    # Find the element the name thg as *main_element_tag*
+    element = root.findall(main_element_tag)
 
     if element.__len__() != 0:
-        if ".//div[@class='storyTitle']" == element_tag:
-            data = "".join(element[0].itertext()).strip()
+        if ".//div[@class='storyTitle']" == main_element_tag:
+            ''' Article name '''
+            json_data[properties_tags[0][0]] = "".join(element[0].findall(".//" + properties_tags[0][1])[0]
+                                                       .itertext()).strip()
+            data = "".join(element[0].findall(".//" + properties_tags[1][1])[0].itertext()).split('|')
+            ''' Author name '''
+            json_data[properties_tags[1][0]] = data[0].strip()
+            ''' Language name '''
+            json_data[properties_tags[2][0]] = data[1].split(':')[1].strip()
+            ''' Translator name '''
+            if element[0].findall(".//" + properties_tags[3][1]).__len__() != 0:
+                json_data[properties_tags[3][0]] = "".join(element[0].findall(".//" + properties_tags[3][1])[0]
+                                                           .itertext()).split(':')[1].strip()
 
-            data = data.split('\n')
-            json_data[properties_tags[0]] = data[0].strip()
-            json_data[properties_tags[1]] = data[1].split('|')[0].strip()
-            json_data[properties_tags[2]] = data[1].split('|')[1].split(":")[1].strip()
-            json_data[properties_tags[3]] = ""
-            if data.__len__() == 3:
-                json_data[properties_tags[3]] = data[2].split(":")[1].strip()
-
-        elif ".//div[@class='mainArticle clearfix']/section[@id='examples']" == element_tag:
-            data = "".join(element[0].itertext()).strip()
-            data = data.split('\n')
-            json_data[properties_tags[0]] = data[0].strip()
-            introduction_text = ""
-            for i in range(1, data.__len__() - 1):
-                if data[i] is not "":
-                    introduction_text += data[i].strip()
-            json_data[properties_tags[1]] = introduction_text
-
-        elif ".//div[@class='mainArticle clearfix']/article" == element_tag:
-            element = element[0].findall(".//p")
-            for idx in range(0, element.__len__()):
-                data += "".join(str(element[idx].text)).strip()
-
+        elif ".//div[@class='mainArticle clearfix']/section[@id='examples']/div[@class='recommendation']" \
+                == main_element_tag:
+            ''' Introduction-title '''
+            json_data[properties_tags[0][0]] = "".join(element[0].findall(".//" + properties_tags[0][1])[0]
+                                                       .itertext()).strip()
+            ''' Introduction-Text '''
+            json_data[properties_tags[1][0]] = "".join(element[0].findall(".//" + properties_tags[1][1])[0]
+                                                       .itertext()).strip()
+        elif ".//div[@class='mainArticle clearfix']/article" == main_element_tag:
+            data = "".join(element[0].findall(".//" + properties_tags[1])[0].itertext()).strip()
             data = data.replace("None", "")
-            json_data[properties_tags] = data
+            json_data[properties_tags[0][0]] = data
 
 
 def main():
     html_files_list = [join(HTML_PAGES_DIR, html_file) for html_file in listdir(HTML_PAGES_DIR)
                        if isfile(join(HTML_PAGES_DIR, html_file))
                        and join(HTML_PAGES_DIR, html_file).split(".")[-1] == "html"]
-    tags_list = [(('Article-name', 'Author', 'Language', 'Translation'), ".//div[@class='storyTitle']", True),
-                 (('Introduction-title', 'Introduction-Text'), ".//div[@class='mainArticle clearfix']/section[@id='examples']", True),
-                 ('Article-Text', ".//div[@class='mainArticle clearfix']/article", True)]
+
+    tags_dict = {".//div[@class='storyTitle']": (('Article-name', 'h1'), ('Author', 'h3'), ('Language', 'h4'),
+                 ('Translator', 'h4')), ".//div[@class='mainArticle clearfix']/section[@id='examples']/div"
+                 "[@class='recommendation']": (('Introduction-title', 'h2'), ('Introduction-Text', 'article')),
+                 ".//div[@class='mainArticle clearfix']/article": ('Article-text', 'p')}
+
 
     for html_file in html_files_list:
         json_data = {}
         html_data = open_file_to_read(html_file)
         root = fromstring(html_data)
-        get_text_from_element(root, tags_list[0][0], tags_list[0][1], tags_list[0][2], json_data)
-        get_text_from_element(root, tags_list[1][0], tags_list[1][1], tags_list[1][2], json_data)
-        get_text_from_element(root, tags_list[2][0], tags_list[2][1], tags_list[2][2], json_data)
+
+        for main_element in tags_dict.keys():
+            get_text_from_element(root, main_element, tags_dict[main_element], json_data)
+
         check_exists_folder_and_create(join(ARTICLES_DIR, json_data['Language']))
         save_file(join(join(ARTICLES_DIR, json_data['Language']), json_data['Article-name'] + '.json'), json_data)
+        print(json_data)
 
 
 if __name__ == "__main__":
