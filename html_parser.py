@@ -26,7 +26,7 @@ def open_file_to_read(path):
 def save_file(path, dict_data):
     try:
         with open(path, 'w+', encoding='utf8') as f:
-            f.write(dumps(dict_data, ensure_ascii=False))
+            f.write(dumps(dict_data, ensure_ascii=False, indent=4, sort_keys=True))
     except PermissionError as e:
         exit("Error: Permission denied({0}): {1}".format(e.errno, e.strerror))
     except:
@@ -93,7 +93,7 @@ def main():
 
         check_exists_folder_and_create(join(ARTICLES_DIR, json_data['Language']))
         save_file(join(join(ARTICLES_DIR, json_data['Language']), json_data['Article-name'] + '.json'), json_data)
-        print(json_data)
+        # print(json_data)
 
 
 if __name__ == "__main__":

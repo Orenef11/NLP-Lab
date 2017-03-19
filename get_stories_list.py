@@ -56,7 +56,7 @@ def main():
     for line in header.getvalue().splitlines():
         print(line.decode())
     str_response = response.getvalue()
-    with open('output.txt', 'wb') as file:
+    with open('stories_list.html', 'wb') as file:
         file.write(str_response)
 
 
