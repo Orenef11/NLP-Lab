@@ -42,7 +42,7 @@ def parse_description(node):
     def recurse(node):
         if node.tag == 'a':
             for key, value in node.items():
-                if key == 'href':
+                if key == 'href' and value.startswith('http://www.shortstoryproject.com/he/'):
                     links.append(value)
         for element in node:
             recurse(element)
@@ -73,15 +73,17 @@ def main():
 	
     for link in links_list:
         link_name = parse.unquote(link.rsplit('/', 2)[1])
-        print('Link: ', link)
-        print('Name: ', link.rsplit('/', 2)[1])
-        header, response = urlget(link)
-        for line in header.getvalue().splitlines():
-            print(line.decode())
-        str_response = response.getvalue()
-        with open(os.path.join(os.getcwd(), 'html_pages', link_name, '.html'), 'wb') as file:
-            file.write(str_response)
-        time.sleep(7)
+        path = os.path.join(os.getcwd(), 'html_pages', link_name + '.html')
+        if not os.path.exists(path):
+            print('Link: ', link)
+            print('Name: ', link.rsplit('/', 2)[1])
+            header, response = urlget(link)
+            for line in header.getvalue().splitlines():
+                print(line.decode())
+            str_response = response.getvalue()
+            with open(path, 'wb') as file:
+                file.write(str_response)
+            time.sleep(7)
 
 
 
