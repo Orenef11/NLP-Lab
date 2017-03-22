@@ -4,21 +4,18 @@ from io import BytesIO
 import os
 from urllib import parse
 import time
+from html_parser import open_file_to_read, exception_handling
 
-def open_file_to_read(path):
-    file_data = ""
-    try:
-        with open(path, 'r', encoding='utf8') as f:
-            file_data = f.read()
-    except FileNotFoundError as e:
-        exit("Error: File not found error({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
-    except PermissionError as e:
-        exit("Error: Permission denied({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
-    except:
-        exit("Error: Unable to create the file!\nThe path file is {0}".format(path))
+STORIES_FILE = r"stories_list.html"
+HOST = r"http://www.shortstoryproject.com/he/"
 
-    return file_data
 
+def get_stories_links(root, links_list):
+    root = root.findall(".//a")
+    if root.__len__() != 0:
+        for element in root:
+            if "title" in element.attrib.keys():
+                links_list.append(element.attrib["title"])
 
 
 def urlget(url):
@@ -27,7 +24,8 @@ def urlget(url):
     response = BytesIO()
     curl = pycurl.Curl()
     curl.setopt(pycurl.URL, url)
-    curl.setopt(pycurl.USERAGENT, "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36")
+    curl.setopt(pycurl.USERAGENT,
+                "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36")
     curl.setopt(pycurl.HEADERFUNCTION, header.write)
     curl.setopt(pycurl.WRITEFUNCTION, response.write)
     curl.setopt(pycurl.COOKIEJAR, 'cookie.txt')
@@ -37,42 +35,20 @@ def urlget(url):
     print('Get function end')
     return header, response
 
-def parse_description(node):
-    links = []
-    def recurse(node):
-        if node.tag == 'a':
-            for key, value in node.items():
-                if key == 'href' and value.startswith('http://www.shortstoryproject.com/he/'):
-                    links.append(value)
-        for element in node:
-            recurse(element)
-    recurse(node)
-    return links
-
-
-def parse_links_list_file(file):
-    links = []
-    def recurse(node):
-        if node.tag == 'div':
-            for key, value in node.items():
-                if key == 'class' and value == 'describe':
-                    links.extend(parse_description(node))
-        for element in node:
-            recurse(element)
-        
-    file_data = open_file_to_read(file)
-    root = fromstring(file_data)
-    recurse(root)
-    return links
-
 
 def main():
-    # get links
-    links_list_file = 'stories_list.html'
-    links_list = parse_links_list_file(links_list_file)
-	
-    for link in links_list:
-        link_name = parse.unquote(link.rsplit('/', 2)[1])
+    file_data = open_file_to_read(STORIES_FILE)
+    root = fromstring(file_data)
+    links_list = []
+
+    get_stories_links(root, links_list)
+    if links_list.__len__() == 0:
+        exit("Links not exist error: please check if Please check that you have successfully retrieved the " \
+             "links from the 'stories_list.html file")
+
+    for link_name in links_list:
+        link_name = parse.unquote(link_name)
+        link = HOST + link_name
         path = os.path.join(os.getcwd(), 'html_pages', link_name + '.html')
         if not os.path.exists(path):
             print('Link: ', link)
@@ -83,8 +59,7 @@ def main():
             str_response = response.getvalue()
             with open(path, 'wb') as file:
                 file.write(str_response)
-            time.sleep(7)
-
+        time.sleep(7)
 
 
 if __name__ == '__main__':

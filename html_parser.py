@@ -1,11 +1,24 @@
 from lxml.html import fromstring
 from codecs import open
 from os import listdir, makedirs
-from os.path import isfile, join, exists
+from sys import exc_info
+from os.path import isfile, join, exists, split
 from json import dumps
 
 HTML_PAGES_DIR = r"html_pages"
 ARTICLES_DIR = r"Articles"
+YELLOW_COLOR = '\033[93m'
+WHITE_COLOR = '\033[0m'
+HOST = r"http://www.shortstoryproject.com/he/"
+
+
+def exception_handling(error_str):
+    print(YELLOW_COLOR)
+    print("Error using '{0}': {1}".format(error_str.split(':')[0], error_str.split(':')[1]))
+    exc_type, exc_obj, exc_tb = exc_info()
+    fname = split(exc_tb.tb_frame.f_code.co_filename)[1]
+    print(exc_type, fname, exc_tb.tb_lineno)
+    print(WHITE_COLOR)
 
 
 def open_file_to_read(path):
@@ -13,12 +26,9 @@ def open_file_to_read(path):
     try:
         with open(path, 'r', encoding='utf8') as f:
             file_data = f.read()
-    except FileNotFoundError as e:
-        exit("Error: File not found error({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
-    except PermissionError as e:
-        exit("Error: Permission denied({0}): {1}\nThe path file is {2}".format(e.errno, e.strerror, path))
-    except:
-        exit("Error: Unable to create the file!\nThe path file is {0}".format(path))
+    except Exception as e:
+        exception_handling(str(e))
+        raise Exception
 
     return file_data
 
@@ -27,10 +37,9 @@ def save_file(path, dict_data):
     try:
         with open(path, 'w+', encoding='utf8') as f:
             f.write(dumps(dict_data, ensure_ascii=False, indent=4, sort_keys=True))
-    except PermissionError as e:
-        exit("Error: Permission denied({0}): {1}".format(e.errno, e.strerror))
-    except:
-        exit("Error: Unable to create the file!")
+    except Exception as e:
+        exception_handling(str(e))
+        raise Exception
 
 
 def check_exists_folder_and_create(folder_path):
@@ -38,38 +47,48 @@ def check_exists_folder_and_create(folder_path):
         makedirs(folder_path)
 
 
-def get_text_from_element(root, main_element_tag, properties_tags, json_data):
-    data = ""
+def get_text_from_element(root, main_element_tag, properties_tags, dict_data):
     # Find the element the name thg as *main_element_tag*
     element = root.findall(main_element_tag)
 
     if element.__len__() != 0:
         if ".//div[@class='storyTitle']" == main_element_tag:
             ''' Article name '''
-            json_data[properties_tags[0][0]] = "".join(element[0].findall(".//" + properties_tags[0][1])[0]
-                                                       .itertext()).strip()
+            dict_data[properties_tags[0][0]] = find_all_data_in_element(element, ".//" + properties_tags[0][1])
+
             data = "".join(element[0].findall(".//" + properties_tags[1][1])[0].itertext()).split('|')
             ''' Author name '''
-            json_data[properties_tags[1][0]] = data[0].strip()
+            dict_data[properties_tags[1][0]] = data[0].strip()
             ''' Language name '''
-            json_data[properties_tags[2][0]] = data[1].split(':')[1].strip()
+            dict_data[properties_tags[2][0]] = data[1].split(':')[1].strip()
             ''' Translator name '''
             if element[0].findall(".//" + properties_tags[3][1]).__len__() != 0:
-                json_data[properties_tags[3][0]] = "".join(element[0].findall(".//" + properties_tags[3][1])[0]
-                                                           .itertext()).split(':')[1].strip()
+                dict_data[properties_tags[3][0]] = find_all_data_in_element(element, ".//" + properties_tags[3][1])
 
         elif ".//div[@class='mainArticle clearfix']/section[@id='examples']/div[@class='recommendation']" \
                 == main_element_tag:
             ''' Introduction-title '''
-            json_data[properties_tags[0][0]] = "".join(element[0].findall(".//" + properties_tags[0][1])[0]
-                                                       .itertext()).strip()
+            dict_data[properties_tags[0][0]] = find_all_data_in_element(element, ".//" + properties_tags[0][1])
+
             ''' Introduction-Text '''
-            json_data[properties_tags[1][0]] = "".join(element[0].findall(".//" + properties_tags[1][1])[0]
-                                                       .itertext()).strip()
+            dict_data[properties_tags[1][0]] = find_all_data_in_element(element, ".//" + properties_tags[1][1])
+
         elif ".//div[@class='mainArticle clearfix']/article" == main_element_tag:
-            data = "".join(element[0].findall(".//" + properties_tags[1])[0].itertext()).strip()
-            data = data.replace("None", "")
-            json_data[properties_tags[0]] = data
+            dict_data[properties_tags[0]] = find_all_data_in_element(element, ".//" + properties_tags[1])
+            dict_data[properties_tags[0]] += find_all_data_in_element(element, ".//div/" + properties_tags[1])
+
+
+
+
+def find_all_data_in_element(element, tag):
+        data = ""
+        for root in element:
+            root = root.findall(tag)
+            for element in root:
+                data += "".join(element.itertext()).strip()
+
+        data = data.replace("None", "")
+        return data
 
 
 def main():
@@ -82,18 +101,23 @@ def main():
                  "[@class='recommendation']": (('Introduction-title', 'h2'), ('Introduction-Text', 'article')),
                  ".//div[@class='mainArticle clearfix']/article": ('Article-text', 'p')}
 
-
     for html_file in html_files_list:
-        json_data = {}
-        html_data = open_file_to_read(html_file)
+        dict_data = {}
+        html_data = ""
+        try:
+            html_data = open_file_to_read(html_file)
+        except Exception as e:
+            pass
         root = fromstring(html_data)
 
         for main_element in tags_dict.keys():
-            get_text_from_element(root, main_element, tags_dict[main_element], json_data)
+            get_text_from_element(root, main_element, tags_dict[main_element], dict_data)
 
-        check_exists_folder_and_create(join(ARTICLES_DIR, json_data['Language']))
-        save_file(join(join(ARTICLES_DIR, json_data['Language']), json_data['Article-name'] + '.json'), json_data)
-        # print(json_data)
+        check_exists_folder_and_create(join(ARTICLES_DIR, dict_data['Language']))
+        try:
+            save_file(join(join(ARTICLES_DIR, dict_data['Language']), dict_data['Article-name'].replace() + '.json'), dict_data)
+        except Exception as e:
+            pass
 
 
 if __name__ == "__main__":

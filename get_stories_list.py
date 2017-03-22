@@ -1,13 +1,16 @@
 import pycurl
 from io import BytesIO
 
+HOST = r"http://www.shortstoryproject.com/he"
+USERAGENT = r"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+ACTION_PHP = r"http://www.shortstoryproject.com/wp-content/themes/maaboret2016/action.php"
 
 
 def urlget(header, response):
     print('Get function start')
     curl = pycurl.Curl()
-    curl.setopt(pycurl.URL, "http://www.shortstoryproject.com/he")
-    curl.setopt(pycurl.USERAGENT, "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36")
+    curl.setopt(pycurl.URL, HOST)
+    curl.setopt(pycurl.USERAGENT, USERAGENT)
     curl.setopt(pycurl.HEADERFUNCTION, header.write)
     curl.setopt(pycurl.WRITEFUNCTION, response.write)
     curl.setopt(pycurl.COOKIEJAR, 'cookie.txt')
@@ -16,12 +19,13 @@ def urlget(header, response):
     curl.close()
     print('Get function end')
 
+
 def urlpost(header, response):
     print('Post function start')
     curl = pycurl.Curl()
     curl.setopt(pycurl.POST, 1)
-    curl.setopt(pycurl.URL, "http://www.shortstoryproject.com/wp-content/themes/maaboret2016/action.php")
-    curl.setopt(pycurl.USERAGENT, "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36")
+    curl.setopt(pycurl.URL, ACTION_PHP)
+    curl.setopt(pycurl.USERAGENT, USERAGENT)
     curl.setopt(pycurl.HTTPHEADER, ["Connection: keep-alive", "Expect:"])
     curl.setopt(pycurl.SSL_VERIFYPEER, 0)
     curl.setopt(pycurl.SSL_VERIFYHOST, 0)
