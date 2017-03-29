@@ -13,7 +13,7 @@ HOST = r"http://www.shortstoryproject.com/he/"
 LOGGING_CONFIG = r"logging.conf"
 
 ''' Global variables'''
-replace_bad_chars_list = ['/', '?', '"', '|']
+replace_bad_chars_list = ['/', '\\', '?', '"', '|']
 
 
 def open_file_to_read(path):
@@ -30,16 +30,21 @@ def open_file_to_read(path):
 
 def save_json_file(path, dict_data):
     try:
+        logging.info("Write data to {0} file".format(path))
         with open(path, 'w+', encoding='utf8') as f:
             f.write(dumps(dict_data, ensure_ascii=False, indent=4, sort_keys=True))
+        logging.info("Finish write data to {0} file".format(path))
     except Exception as e:
         logging.info(str(e))
         raise Exception
 
 
 def check_exists_folder_and_create(folder_path):
+    folder_name = folder_path.split('\\')[-1]
+    logging.info("Create {0} in Articles folder".format(folder_name))
     if not exists(folder_path):
         makedirs(folder_path)
+    logging.info("Finish create {0} in Articles folder".format(folder_name))
 
 
 def get_text_from_element(root, main_element_tag, properties_tags, dict_data):
@@ -113,7 +118,7 @@ def count_file_in_folder(folders_names_list):
 
 
 def main():
-    setting_up_logger('debug', 'critical')
+    setting_up_logger('debug', 'debug')
     logger = logging.getLogger(__name__)
     html_files_list = [join(HTML_PAGES_DIR, html_file) for html_file in listdir(HTML_PAGES_DIR)
                        if isfile(join(HTML_PAGES_DIR, html_file))
@@ -149,8 +154,8 @@ def main():
             save_json_file(join(join(ARTICLES_DIR, dict_data['Language']), dict_data['Article-name'] + '.json'),
                            dict_data)
 
-            # logger.critical("Could not open '{0}' file, so file changed to '%{1}'"
-            #                 .format(original_filename, dict_data['Article-name']))
+            logger.debug("Could not open '{0}' file, so file changed to '%{1}'"
+                         .format(original_filename, dict_data['Article-name']))
             continue
 
     count_file_in_folder(listdir(ARTICLES_DIR))

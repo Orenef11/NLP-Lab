@@ -1,0 +1,1423 @@
+29/03/2017 11:34:39 AM	[MainThread  ] 119 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 119 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 119 root [INFO ]  Write data to Articles\אנגלית\1/3 1/3 1/3.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 119 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 119 root [INFO ]  Write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 135 root [INFO ]  Finish write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 141 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 157 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 172 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב?.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 188 root [INFO ]  Finish write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 204 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 219 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 235 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 235 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 239 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 239 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מל"ט – רשמים מעיר תחת אש.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Finish write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 241 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 257 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Create מלטזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Finish create מלטזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 273 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 288 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 304 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 304 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 304 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 304 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 319 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 337 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 338 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 341 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Create דנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Finish create דנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 357 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 372 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  Write data to Articles\רוסית\דלות | ערדל.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  Write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 388 root [INFO ]  Finish write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 404 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Create שוודית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Finish create שוודית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 419 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 438 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 438 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 441 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 457 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 473 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 488 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 504 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת | הקופאית.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 520 root [INFO ]  Finish write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 538 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 538 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 542 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 560 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 561 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 566 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 566 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 570 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 570 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 575 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 575 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 578 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 593 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Create טורקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Finish create טורקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 609 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 625 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Create סרבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Finish create סרבית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 641 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 658 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 659 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 664 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 664 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 668 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 668 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 672 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 672 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 677 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 677 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 682 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 682 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 686 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 686 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 687 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Create קטלאנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 703 root [INFO ]  Finish create קטלאנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 719 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 738 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 738 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 742 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 757 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 773 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 789 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 804 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 804 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 820 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 837 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 837 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 842 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 858 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על?.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 873 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Finish write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק?.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Finish write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 889 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 905 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 930 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 930 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 942 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 957 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 973 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:39 AM	[MainThread  ] 989 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 4 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 4 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 4 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 4 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 20 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 40 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 40 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 43 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 58 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 74 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 89 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 105 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 121 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 138 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 138 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 143 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 143 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 147 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 147 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 151 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 151 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 154 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 170 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Create נורווגית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Finish create נורווגית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Create צ'כית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Finish create צ'כית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 185 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 201 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 217 root [INFO ]  Create פינית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 232 root [INFO ]  Finish create פינית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 237 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 237 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 241 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 242 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 243 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:34:40 AM	[MainThread  ] 258 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 822 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 822 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 822 root [INFO ]  Write data to Articles\אנגלית\1/3 1/3 1/3.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 822 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+29/03/2017 11:37:08 AM	[MainThread  ] 822 root [INFO ]  Write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 840 root [INFO ]  Finish write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 844 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 860 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 876 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב?.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 891 root [INFO ]  Finish write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 907 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 922 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 942 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 942 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מל"ט – רשמים מעיר תחת אש.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Finish write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 944 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 960 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Create מלטזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Finish create מלטזית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 975 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:08 AM	[MainThread  ] 991 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 7 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 22 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 39 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 39 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Create דנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Finish create דנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 44 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 60 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 60 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 60 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 60 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Write data to Articles\רוסית\דלות | ערדל.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+29/03/2017 11:37:09 AM	[MainThread  ] 76 root [INFO ]  Write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 91 root [INFO ]  Finish write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 91 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 91 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 91 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 91 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Create שוודית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Finish create שוודית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 107 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 123 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 141 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 141 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 144 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 160 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 175 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 191 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 207 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת | הקופאית.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Finish write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 222 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 241 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 241 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 244 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 244 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 244 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 244 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 260 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 275 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 291 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Create טורקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 307 root [INFO ]  Finish create טורקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 322 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 338 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 339 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Create סרבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Finish create סרבית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 344 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 360 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 375 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 375 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 375 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 375 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 391 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 407 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Create קטלאנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Finish create קטלאנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 422 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 442 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 442 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 444 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 460 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 476 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 491 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 507 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 522 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 544 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 560 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 560 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 560 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 560 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 560 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על?.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 575 root [INFO ]  Finish write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק?.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Finish write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 591 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 607 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 622 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 642 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 642 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 645 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 664 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 665 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 670 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 671 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 676 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 692 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 708 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 708 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 708 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 708 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 723 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 739 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 740 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 744 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 760 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 776 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 776 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 776 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 776 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 791 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 807 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 823 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 840 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 840 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 845 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 860 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 860 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 860 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 860 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 876 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Create נורווגית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Finish create נורווגית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Create צ'כית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Finish create צ'כית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 892 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 907 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 923 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 944 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 944 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Create פינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Finish create פינית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 945 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 961 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 976 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 976 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 976 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 976 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 992 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 992 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 992 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:37:09 AM	[MainThread  ] 992 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 612 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 612 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 612 root [INFO ]  Write data to Articles\אנגלית\1/3 1/3 1/3.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 612 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+29/03/2017 11:38:42 AM	[MainThread  ] 612 root [INFO ]  Write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 627 root [INFO ]  Finish write data to Articles\אנגלית\13 13 13.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 627 __main__ [CRITI]  Could not open '1/3 1/3 1/3' file, so file changed to '%13 13 13'
+29/03/2017 11:38:42 AM	[MainThread  ] 627 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 627 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 627 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 627 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 643 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 659 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 659 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 664 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 664 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 665 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב?.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 681 root [INFO ]  Finish write data to Articles\אנגלית\אין חדש, או מה הרג את הכלב.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 681 __main__ [CRITI]  Could not open 'אין חדש, או מה הרג את הכלב?' file, so file changed to '%אין חדש, או מה הרג את הכלב'
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 696 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 712 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מל"ט – רשמים מעיר תחת אש.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 727 root [INFO ]  Finish write data to Articles\אנגלית\ארוחה עם מלט – רשמים מעיר תחת אש.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 727 __main__ [CRITI]  Could not open 'ארוחה עם מל"ט – רשמים מעיר תחת אש' file, so file changed to '%ארוחה עם מלט – רשמים מעיר תחת אש'
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 743 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 763 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 763 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Create מלטזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Finish create מלטזית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 765 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 781 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 797 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 797 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 797 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 797 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 797 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 812 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 812 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 812 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 812 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 812 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 828 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Create דנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Finish create דנית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 843 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 860 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 860 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Write data to Articles\רוסית\דלות | ערדל.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+29/03/2017 11:38:42 AM	[MainThread  ] 865 root [INFO ]  Write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 881 root [INFO ]  Finish write data to Articles\רוסית\דלות  ערדל.json file
+29/03/2017 11:38:42 AM	[MainThread  ] 881 __main__ [CRITI]  Could not open 'דלות | ערדל' file, so file changed to '%דלות  ערדל'
+29/03/2017 11:38:42 AM	[MainThread  ] 881 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 881 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 881 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 881 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 896 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 896 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 896 root [INFO ]  Create שוודית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 896 root [INFO ]  Finish create שוודית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 912 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 928 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 943 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 963 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 963 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 965 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 981 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 997 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 997 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 997 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 997 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:42 AM	[MainThread  ] 997 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת | הקופאית.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Finish write data to Articles\רוסית\הוללות לא מתוכננת  הקופאית.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 12 __main__ [CRITI]  Could not open 'הוללות לא מתוכננת | הקופאית' file, so file changed to '%הוללות לא מתוכננת  הקופאית'
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 12 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 28 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 44 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 44 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 44 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 44 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 59 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 59 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 63 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 63 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Create יידיש in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Finish create יידיש in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Create ערבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 66 root [INFO ]  Finish create ערבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 81 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Create טורקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Finish create טורקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 97 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 113 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Create סרבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Finish create סרבית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 128 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 144 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 161 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 161 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Create רומנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Finish create רומנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 166 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 182 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Create קטלאנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Finish create קטלאנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 197 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 213 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 229 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 244 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 244 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 244 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 244 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 260 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 261 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 265 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 265 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Create סרבו-קרואטית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Finish create סרבו-קרואטית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 266 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 282 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 282 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 282 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 282 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 298 root [INFO ]  Finish create יוונית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 313 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 329 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 329 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 329 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 329 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 329 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 344 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 344 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 344 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 344 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 344 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 360 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 361 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 365 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 365 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 365 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על?.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 365 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+29/03/2017 11:38:43 AM	[MainThread  ] 365 root [INFO ]  Write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Finish write data to Articles\עברית\מה אתה מסתכל על.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 366 __main__ [CRITI]  Could not open 'מה אתה מסתכל על?' file, so file changed to '%מה אתה מסתכל על'
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק?.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 366 root [INFO ]  Finish write data to Articles\ספרדית\מה קורה, מותק.json file
+29/03/2017 11:38:43 AM	[MainThread  ] 366 __main__ [CRITI]  Could not open 'מה קורה, מותק?' file, so file changed to '%מה קורה, מותק'
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 382 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 398 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 413 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 430 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 430 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 438 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 438 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 445 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 464 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 464 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 467 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 483 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Create סינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Finish create סינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 498 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 514 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 529 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 545 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 545 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 545 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 545 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 561 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 562 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Create פולנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Finish create פולנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 567 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 583 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 599 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Finish create גרמנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 614 root [INFO ]  Finish create הונגרית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Create פורטוגזית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Finish create פורטוגזית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 630 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 645 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 663 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 663 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Create נורווגית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Finish create נורווגית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Create צ'כית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Finish create צ'כית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Create יפנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 667 root [INFO ]  Finish create יפנית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Create איטלקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 683 root [INFO ]  Finish create איטלקית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 698 root [INFO ]  Finish create רוסית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Create פינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Finish create פינית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 714 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 730 root [INFO ]  Finish create צרפתית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Finish create עברית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 745 root [INFO ]  Finish create אנגלית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 761 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 762 root [INFO ]  Finish create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 767 root [INFO ]  Create ספרדית in Articles folder
+29/03/2017 11:38:43 AM	[MainThread  ] 767 root [INFO ]  Finish create ספרדית in Articles folder
