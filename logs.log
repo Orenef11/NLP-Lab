@@ -1,0 +1,961 @@
+26/03/2017 01:52:59 AM	[MainThread  ] 506 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 01:55:15 AM	[MainThread  ] 76 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 01:55:15 AM	[MainThread  ] 76 root [INFO ]  Name: 
+26/03/2017 01:55:15 AM	[MainThread  ] 76 root [INFO ]  Get function start
+26/03/2017 01:55:16 AM	[MainThread  ] 188 root [INFO ]  Get function end
+26/03/2017 01:55:16 AM	[MainThread  ] 188 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 01:55:16 AM	[MainThread  ] 189 root [INFO ]  Date: Sat, 25 Mar 2017 22:56:06 GMT
+26/03/2017 01:55:16 AM	[MainThread  ] 189 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 01:55:16 AM	[MainThread  ] 189 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:55:16 AM	[MainThread  ] 190 root [INFO ]  Connection: keep-alive
+26/03/2017 01:55:16 AM	[MainThread  ] 190 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 01:55:16 AM	[MainThread  ] 191 root [INFO ]  Cf-Railgun: 59aa255688 stream 0.000000 0200 206c
+26/03/2017 01:55:16 AM	[MainThread  ] 191 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 01:55:16 AM	[MainThread  ] 191 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 01:55:16 AM	[MainThread  ] 191 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 01:55:16 AM	[MainThread  ] 192 root [INFO ]  Pragma: no-cache
+26/03/2017 01:55:16 AM	[MainThread  ] 192 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 01:55:16 AM	[MainThread  ] 192 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 01:55:16 AM	[MainThread  ] 192 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 01:55:16 AM	[MainThread  ] 193 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:55:16 AM	[MainThread  ] 193 root [INFO ]  CF-RAY: 34557623555f3542-LHR
+26/03/2017 01:55:16 AM	[MainThread  ] 193 root [INFO ]  
+26/03/2017 01:57:40 AM	[MainThread  ] 71 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 01:57:40 AM	[MainThread  ] 71 root [INFO ]  Name: 
+26/03/2017 01:57:40 AM	[MainThread  ] 71 root [INFO ]  Get function start
+26/03/2017 01:57:41 AM	[MainThread  ] 759 root [INFO ]  Get function end
+26/03/2017 01:57:41 AM	[MainThread  ] 760 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 01:57:41 AM	[MainThread  ] 760 root [INFO ]  Date: Sat, 25 Mar 2017 22:58:32 GMT
+26/03/2017 01:57:41 AM	[MainThread  ] 760 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 01:57:41 AM	[MainThread  ] 761 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:57:41 AM	[MainThread  ] 761 root [INFO ]  Connection: keep-alive
+26/03/2017 01:57:41 AM	[MainThread  ] 761 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 01:57:41 AM	[MainThread  ] 761 root [INFO ]  Cf-Railgun: c3d97b8add stream 0.000000 0200 206c
+26/03/2017 01:57:41 AM	[MainThread  ] 762 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 01:57:41 AM	[MainThread  ] 762 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 01:57:41 AM	[MainThread  ] 762 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 01:57:41 AM	[MainThread  ] 763 root [INFO ]  Pragma: no-cache
+26/03/2017 01:57:41 AM	[MainThread  ] 763 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 01:57:41 AM	[MainThread  ] 763 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 01:57:41 AM	[MainThread  ] 763 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 01:57:41 AM	[MainThread  ] 764 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:57:41 AM	[MainThread  ] 764 root [INFO ]  CF-RAY: 345579ae659106d6-LHR
+26/03/2017 01:57:41 AM	[MainThread  ] 764 root [INFO ]  
+26/03/2017 01:57:50 AM	[MainThread  ] 447 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 01:57:50 AM	[MainThread  ] 448 root [INFO ]  Name: 
+26/03/2017 01:57:50 AM	[MainThread  ] 448 root [INFO ]  Get function start
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Get function end
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Date: Sat, 25 Mar 2017 22:58:41 GMT
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Connection: keep-alive
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Cf-Railgun: 691d751d84 stream 0.000000 0200 206c
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 01:57:51 AM	[MainThread  ] 376 root [INFO ]  Pragma: no-cache
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  CF-RAY: 345579ed62b36aa3-LHR
+26/03/2017 01:57:51 AM	[MainThread  ] 377 root [INFO ]  
+26/03/2017 01:57:58 AM	[MainThread  ] 378 root [INFO ]  Link: http://www.shortstoryproject.com/he/קוֹפִּי ופֵּייסְט
+26/03/2017 01:57:58 AM	[MainThread  ] 379 root [INFO ]  Name: 
+26/03/2017 01:57:58 AM	[MainThread  ] 379 root [INFO ]  Get function start
+26/03/2017 01:57:58 AM	[MainThread  ] 553 root [INFO ]  Get function end
+26/03/2017 01:57:58 AM	[MainThread  ] 554 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:57:58 AM	[MainThread  ] 554 root [INFO ]  Date: Sat, 25 Mar 2017 22:58:48 GMT
+26/03/2017 01:57:58 AM	[MainThread  ] 555 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:57:58 AM	[MainThread  ] 555 root [INFO ]  Connection: keep-alive
+26/03/2017 01:57:58 AM	[MainThread  ] 555 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:57:58 AM	[MainThread  ] 555 root [INFO ]  CF-RAY: 34557a1ee7780a90-LHR
+26/03/2017 01:57:58 AM	[MainThread  ] 556 root [INFO ]  
+26/03/2017 01:58:05 AM	[MainThread  ] 559 root [INFO ]  Link: http://www.shortstoryproject.com/he/האספנית
+26/03/2017 01:58:05 AM	[MainThread  ] 559 root [INFO ]  Name: 
+26/03/2017 01:58:05 AM	[MainThread  ] 559 root [INFO ]  Get function start
+26/03/2017 01:58:06 AM	[MainThread  ] 611 root [INFO ]  Get function end
+26/03/2017 01:58:06 AM	[MainThread  ] 611 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 01:58:06 AM	[MainThread  ] 611 root [INFO ]  Date: Sat, 25 Mar 2017 22:58:56 GMT
+26/03/2017 01:58:06 AM	[MainThread  ] 612 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 01:58:06 AM	[MainThread  ] 612 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:06 AM	[MainThread  ] 612 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:06 AM	[MainThread  ] 613 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 01:58:06 AM	[MainThread  ] 613 root [INFO ]  Cf-Railgun: 220fdce944 stream 0.000000 0200 206c
+26/03/2017 01:58:06 AM	[MainThread  ] 613 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 01:58:06 AM	[MainThread  ] 613 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 01:58:06 AM	[MainThread  ] 614 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%94%D7%90%D7%A1%D7%A4%D7%A0%D7%99%D7%AA/
+26/03/2017 01:58:06 AM	[MainThread  ] 614 root [INFO ]  Pragma: no-cache
+26/03/2017 01:58:06 AM	[MainThread  ] 614 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 01:58:06 AM	[MainThread  ] 615 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 01:58:06 AM	[MainThread  ] 615 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 01:58:06 AM	[MainThread  ] 615 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:06 AM	[MainThread  ] 616 root [INFO ]  CF-RAY: 34557a4bd11b3464-LHR
+26/03/2017 01:58:06 AM	[MainThread  ] 616 root [INFO ]  
+26/03/2017 01:58:13 AM	[MainThread  ] 619 root [INFO ]  Link: http://www.shortstoryproject.com/he/אמורי אשיג אטוסה
+26/03/2017 01:58:13 AM	[MainThread  ] 619 root [INFO ]  Name: 
+26/03/2017 01:58:13 AM	[MainThread  ] 619 root [INFO ]  Get function start
+26/03/2017 01:58:16 AM	[MainThread  ] 780 root [INFO ]  Get function end
+26/03/2017 01:58:16 AM	[MainThread  ] 781 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:58:16 AM	[MainThread  ] 781 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:07 GMT
+26/03/2017 01:58:16 AM	[MainThread  ] 781 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:16 AM	[MainThread  ] 782 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:16 AM	[MainThread  ] 782 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:16 AM	[MainThread  ] 782 root [INFO ]  CF-RAY: 34557a90e33f1383-LHR
+26/03/2017 01:58:16 AM	[MainThread  ] 783 root [INFO ]  
+26/03/2017 01:58:23 AM	[MainThread  ] 784 root [INFO ]  Link: http://www.shortstoryproject.com/he/זוג רעים
+26/03/2017 01:58:23 AM	[MainThread  ] 784 root [INFO ]  Name: 
+26/03/2017 01:58:23 AM	[MainThread  ] 784 root [INFO ]  Get function start
+26/03/2017 01:58:23 AM	[MainThread  ] 957 root [INFO ]  Get function end
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:14 GMT
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  CF-RAY: 34557abdc25a6a25-LHR
+26/03/2017 01:58:23 AM	[MainThread  ] 958 root [INFO ]  
+26/03/2017 01:58:30 AM	[MainThread  ] 960 root [INFO ]  Link: http://www.shortstoryproject.com/he/מות האם
+26/03/2017 01:58:30 AM	[MainThread  ] 960 root [INFO ]  Name: 
+26/03/2017 01:58:30 AM	[MainThread  ] 961 root [INFO ]  Get function start
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  Get function end
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:21 GMT
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  CF-RAY: 34557aea93fe35e4-LHR
+26/03/2017 01:58:31 AM	[MainThread  ] 133 root [INFO ]  
+26/03/2017 01:58:38 AM	[MainThread  ] 134 root [INFO ]  Link: http://www.shortstoryproject.com/he/ברזני
+26/03/2017 01:58:38 AM	[MainThread  ] 135 root [INFO ]  Name: 
+26/03/2017 01:58:38 AM	[MainThread  ] 135 root [INFO ]  Get function start
+26/03/2017 01:58:39 AM	[MainThread  ] 102 root [INFO ]  Get function end
+26/03/2017 01:58:39 AM	[MainThread  ] 103 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 01:58:39 AM	[MainThread  ] 103 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:29 GMT
+26/03/2017 01:58:39 AM	[MainThread  ] 104 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 01:58:39 AM	[MainThread  ] 104 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:39 AM	[MainThread  ] 104 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:39 AM	[MainThread  ] 104 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 01:58:39 AM	[MainThread  ] 105 root [INFO ]  Cf-Railgun: 8925c2a89d stream 0.000000 0200 206c
+26/03/2017 01:58:39 AM	[MainThread  ] 105 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 01:58:39 AM	[MainThread  ] 105 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 01:58:39 AM	[MainThread  ] 105 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%A8%D7%96%D7%A0%D7%99/
+26/03/2017 01:58:39 AM	[MainThread  ] 106 root [INFO ]  Pragma: no-cache
+26/03/2017 01:58:39 AM	[MainThread  ] 106 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 01:58:39 AM	[MainThread  ] 106 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 01:58:39 AM	[MainThread  ] 107 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 01:58:39 AM	[MainThread  ] 107 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:39 AM	[MainThread  ] 107 root [INFO ]  CF-RAY: 34557b1771ac34ac-LHR
+26/03/2017 01:58:39 AM	[MainThread  ] 107 root [INFO ]  
+26/03/2017 01:58:46 AM	[MainThread  ] 109 root [INFO ]  Link: http://www.shortstoryproject.com/he/Funny Valentine
+26/03/2017 01:58:46 AM	[MainThread  ] 110 root [INFO ]  Name: 
+26/03/2017 01:58:46 AM	[MainThread  ] 110 root [INFO ]  Get function start
+26/03/2017 01:58:46 AM	[MainThread  ] 296 root [INFO ]  Get function end
+26/03/2017 01:58:46 AM	[MainThread  ] 297 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:58:46 AM	[MainThread  ] 297 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:36 GMT
+26/03/2017 01:58:46 AM	[MainThread  ] 297 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:46 AM	[MainThread  ] 298 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:46 AM	[MainThread  ] 298 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:46 AM	[MainThread  ] 298 root [INFO ]  CF-RAY: 34557b4966a76b67-LHR
+26/03/2017 01:58:46 AM	[MainThread  ] 299 root [INFO ]  
+26/03/2017 01:58:53 AM	[MainThread  ] 300 root [INFO ]  Link: http://www.shortstoryproject.com/he/התרחשות בגשר נחל הינשוף
+26/03/2017 01:58:53 AM	[MainThread  ] 301 root [INFO ]  Name: 
+26/03/2017 01:58:53 AM	[MainThread  ] 301 root [INFO ]  Get function start
+26/03/2017 01:58:53 AM	[MainThread  ] 475 root [INFO ]  Get function end
+26/03/2017 01:58:53 AM	[MainThread  ] 476 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:58:53 AM	[MainThread  ] 476 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:43 GMT
+26/03/2017 01:58:53 AM	[MainThread  ] 477 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:58:53 AM	[MainThread  ] 477 root [INFO ]  Connection: keep-alive
+26/03/2017 01:58:53 AM	[MainThread  ] 477 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:58:53 AM	[MainThread  ] 478 root [INFO ]  CF-RAY: 34557b763554359c-LHR
+26/03/2017 01:58:53 AM	[MainThread  ] 478 root [INFO ]  
+26/03/2017 01:59:00 AM	[MainThread  ] 480 root [INFO ]  Link: http://www.shortstoryproject.com/he/רשימות של עכביש
+26/03/2017 01:59:00 AM	[MainThread  ] 481 root [INFO ]  Name: 
+26/03/2017 01:59:00 AM	[MainThread  ] 481 root [INFO ]  Get function start
+26/03/2017 01:59:00 AM	[MainThread  ] 643 root [INFO ]  Get function end
+26/03/2017 01:59:00 AM	[MainThread  ] 644 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:00 AM	[MainThread  ] 644 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:50 GMT
+26/03/2017 01:59:00 AM	[MainThread  ] 644 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:00 AM	[MainThread  ] 645 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:00 AM	[MainThread  ] 645 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:00 AM	[MainThread  ] 645 root [INFO ]  CF-RAY: 34557ba310f734ac-LHR
+26/03/2017 01:59:00 AM	[MainThread  ] 646 root [INFO ]  
+26/03/2017 01:59:07 AM	[MainThread  ] 648 root [INFO ]  Link: http://www.shortstoryproject.com/he/הישראלי הנצחי
+26/03/2017 01:59:07 AM	[MainThread  ] 648 root [INFO ]  Name: 
+26/03/2017 01:59:07 AM	[MainThread  ] 648 root [INFO ]  Get function start
+26/03/2017 01:59:07 AM	[MainThread  ] 827 root [INFO ]  Get function end
+26/03/2017 01:59:07 AM	[MainThread  ] 827 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:07 AM	[MainThread  ] 828 root [INFO ]  Date: Sat, 25 Mar 2017 22:59:58 GMT
+26/03/2017 01:59:07 AM	[MainThread  ] 828 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:07 AM	[MainThread  ] 829 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:07 AM	[MainThread  ] 829 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:07 AM	[MainThread  ] 829 root [INFO ]  CF-RAY: 34557bcff5d36aa3-LHR
+26/03/2017 01:59:07 AM	[MainThread  ] 829 root [INFO ]  
+26/03/2017 01:59:14 AM	[MainThread  ] 832 root [INFO ]  Link: http://www.shortstoryproject.com/he/תקלה בשירות
+26/03/2017 01:59:14 AM	[MainThread  ] 832 root [INFO ]  Name: 
+26/03/2017 01:59:14 AM	[MainThread  ] 832 root [INFO ]  Get function start
+26/03/2017 01:59:15 AM	[MainThread  ] 7 root [INFO ]  Get function end
+26/03/2017 01:59:15 AM	[MainThread  ] 7 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:15 AM	[MainThread  ] 8 root [INFO ]  Date: Sat, 25 Mar 2017 23:00:05 GMT
+26/03/2017 01:59:15 AM	[MainThread  ] 8 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:15 AM	[MainThread  ] 8 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:15 AM	[MainThread  ] 9 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:15 AM	[MainThread  ] 9 root [INFO ]  CF-RAY: 34557bfcd03134ac-LHR
+26/03/2017 01:59:15 AM	[MainThread  ] 9 root [INFO ]  
+26/03/2017 01:59:22 AM	[MainThread  ] 11 root [INFO ]  Link: http://www.shortstoryproject.com/he/חלומו של אדם מגוחך
+26/03/2017 01:59:22 AM	[MainThread  ] 12 root [INFO ]  Name: 
+26/03/2017 01:59:22 AM	[MainThread  ] 12 root [INFO ]  Get function start
+26/03/2017 01:59:22 AM	[MainThread  ] 853 root [INFO ]  Get function end
+26/03/2017 01:59:22 AM	[MainThread  ] 853 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:22 AM	[MainThread  ] 853 root [INFO ]  Date: Sat, 25 Mar 2017 23:00:13 GMT
+26/03/2017 01:59:22 AM	[MainThread  ] 854 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:22 AM	[MainThread  ] 854 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:22 AM	[MainThread  ] 855 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:22 AM	[MainThread  ] 855 root [INFO ]  CF-RAY: 34557c29a3c43542-LHR
+26/03/2017 01:59:22 AM	[MainThread  ] 855 root [INFO ]  
+26/03/2017 01:59:29 AM	[MainThread  ] 858 root [INFO ]  Link: http://www.shortstoryproject.com/he/יד כמעט תכולה
+26/03/2017 01:59:29 AM	[MainThread  ] 858 root [INFO ]  Name: 
+26/03/2017 01:59:29 AM	[MainThread  ] 859 root [INFO ]  Get function start
+26/03/2017 01:59:30 AM	[MainThread  ] 25 root [INFO ]  Get function end
+26/03/2017 01:59:30 AM	[MainThread  ] 26 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:30 AM	[MainThread  ] 26 root [INFO ]  Date: Sat, 25 Mar 2017 23:00:20 GMT
+26/03/2017 01:59:30 AM	[MainThread  ] 27 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:30 AM	[MainThread  ] 27 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:30 AM	[MainThread  ] 27 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:30 AM	[MainThread  ] 27 root [INFO ]  CF-RAY: 34557c5ab6543542-LHR
+26/03/2017 01:59:30 AM	[MainThread  ] 28 root [INFO ]  
+26/03/2017 01:59:37 AM	[MainThread  ] 31 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 01:59:37 AM	[MainThread  ] 32 root [INFO ]  Name: 
+26/03/2017 01:59:37 AM	[MainThread  ] 32 root [INFO ]  Get function start
+26/03/2017 01:59:37 AM	[MainThread  ] 321 root [INFO ]  Get function end
+26/03/2017 01:59:37 AM	[MainThread  ] 321 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 01:59:37 AM	[MainThread  ] 321 root [INFO ]  Date: Sat, 25 Mar 2017 23:00:27 GMT
+26/03/2017 01:59:37 AM	[MainThread  ] 322 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 01:59:37 AM	[MainThread  ] 322 root [INFO ]  Connection: keep-alive
+26/03/2017 01:59:37 AM	[MainThread  ] 322 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 01:59:37 AM	[MainThread  ] 322 root [INFO ]  CF-RAY: 34557c87a1c20a90-LHR
+26/03/2017 01:59:37 AM	[MainThread  ] 322 root [INFO ]  
+26/03/2017 02:05:54 AM	[MainThread  ] 95 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:05:54 AM	[MainThread  ] 95 root [INFO ]  Name: 
+26/03/2017 02:05:54 AM	[MainThread  ] 95 root [INFO ]  Get function start
+26/03/2017 02:05:56 AM	[MainThread  ] 590 root [INFO ]  Get function end
+26/03/2017 02:05:56 AM	[MainThread  ] 590 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:05:56 AM	[MainThread  ] 590 root [INFO ]  Date: Sat, 25 Mar 2017 23:06:46 GMT
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Connection: keep-alive
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Cf-Railgun: 4dc02b18c1 stream 0.000000 0200 206c
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:05:56 AM	[MainThread  ] 591 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  Pragma: no-cache
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:05:56 AM	[MainThread  ] 592 root [INFO ]  CF-RAY: 345585c5a4de69e3-LHR
+26/03/2017 02:05:56 AM	[MainThread  ] 593 root [INFO ]  
+26/03/2017 02:06:12 AM	[MainThread  ] 58 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:06:12 AM	[MainThread  ] 58 root [INFO ]  Name: 
+26/03/2017 02:06:12 AM	[MainThread  ] 58 root [INFO ]  Get function start
+26/03/2017 02:06:13 AM	[MainThread  ] 448 root [INFO ]  Get function end
+26/03/2017 02:06:13 AM	[MainThread  ] 448 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:06:13 AM	[MainThread  ] 448 root [INFO ]  Date: Sat, 25 Mar 2017 23:07:03 GMT
+26/03/2017 02:06:13 AM	[MainThread  ] 448 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Connection: keep-alive
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Cf-Railgun: eb41845639 stream 0.000000 0200 206c
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:06:13 AM	[MainThread  ] 449 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  Pragma: no-cache
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  CF-RAY: 3455862c85da06d0-LHR
+26/03/2017 02:06:13 AM	[MainThread  ] 450 root [INFO ]  
+26/03/2017 02:06:40 AM	[MainThread  ] 652 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:06:40 AM	[MainThread  ] 653 root [INFO ]  Name: 
+26/03/2017 02:06:40 AM	[MainThread  ] 653 root [INFO ]  Get function start
+26/03/2017 02:06:41 AM	[MainThread  ] 713 root [INFO ]  Get function end
+26/03/2017 02:06:41 AM	[MainThread  ] 713 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:06:41 AM	[MainThread  ] 713 root [INFO ]  Date: Sat, 25 Mar 2017 23:07:31 GMT
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Connection: keep-alive
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Cf-Railgun: bcf1c393b4 stream 0.000000 0200 206c
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:06:41 AM	[MainThread  ] 714 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  Pragma: no-cache
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  CF-RAY: 345586df339c69e3-LHR
+26/03/2017 02:06:41 AM	[MainThread  ] 715 root [INFO ]  
+26/03/2017 02:07:01 AM	[MainThread  ] 339 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:07:01 AM	[MainThread  ] 339 root [INFO ]  Name: 
+26/03/2017 02:07:01 AM	[MainThread  ] 339 root [INFO ]  Get function start
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Get function end
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Date: Sat, 25 Mar 2017 23:07:52 GMT
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Cf-Railgun: b7eff92811 stream 0.000000 0200 206c
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  Pragma: no-cache
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:07:02 AM	[MainThread  ] 349 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:07:02 AM	[MainThread  ] 350 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:07:02 AM	[MainThread  ] 350 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:02 AM	[MainThread  ] 350 root [INFO ]  CF-RAY: 3455876093840b75-LHR
+26/03/2017 02:07:02 AM	[MainThread  ] 350 root [INFO ]  
+26/03/2017 02:07:09 AM	[MainThread  ] 351 root [INFO ]  Link: http://www.shortstoryproject.com/he/קוֹפִּי ופֵּייסְט
+26/03/2017 02:07:09 AM	[MainThread  ] 351 root [INFO ]  Name: 
+26/03/2017 02:07:09 AM	[MainThread  ] 351 root [INFO ]  Get function start
+26/03/2017 02:07:09 AM	[MainThread  ] 529 root [INFO ]  Get function end
+26/03/2017 02:07:09 AM	[MainThread  ] 529 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:07:09 AM	[MainThread  ] 530 root [INFO ]  Date: Sat, 25 Mar 2017 23:07:59 GMT
+26/03/2017 02:07:09 AM	[MainThread  ] 530 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:09 AM	[MainThread  ] 530 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:09 AM	[MainThread  ] 531 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:09 AM	[MainThread  ] 531 root [INFO ]  CF-RAY: 34558792912535ea-LHR
+26/03/2017 02:07:09 AM	[MainThread  ] 531 root [INFO ]  
+26/03/2017 02:07:16 AM	[MainThread  ] 533 root [INFO ]  Link: http://www.shortstoryproject.com/he/האספנית
+26/03/2017 02:07:16 AM	[MainThread  ] 534 root [INFO ]  Name: 
+26/03/2017 02:07:16 AM	[MainThread  ] 534 root [INFO ]  Get function start
+26/03/2017 02:07:17 AM	[MainThread  ] 471 root [INFO ]  Get function end
+26/03/2017 02:07:17 AM	[MainThread  ] 472 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:07:17 AM	[MainThread  ] 472 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:07 GMT
+26/03/2017 02:07:17 AM	[MainThread  ] 473 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:07:17 AM	[MainThread  ] 473 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:17 AM	[MainThread  ] 473 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:17 AM	[MainThread  ] 473 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:07:17 AM	[MainThread  ] 474 root [INFO ]  Cf-Railgun: 984dbffd79 stream 0.000000 0200 206c
+26/03/2017 02:07:17 AM	[MainThread  ] 474 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:07:17 AM	[MainThread  ] 474 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:07:17 AM	[MainThread  ] 474 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%94%D7%90%D7%A1%D7%A4%D7%A0%D7%99%D7%AA/
+26/03/2017 02:07:17 AM	[MainThread  ] 475 root [INFO ]  Pragma: no-cache
+26/03/2017 02:07:17 AM	[MainThread  ] 475 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:07:17 AM	[MainThread  ] 475 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:07:17 AM	[MainThread  ] 476 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:07:17 AM	[MainThread  ] 476 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:17 AM	[MainThread  ] 476 root [INFO ]  CF-RAY: 345587bf827a1389-LHR
+26/03/2017 02:07:17 AM	[MainThread  ] 477 root [INFO ]  
+26/03/2017 02:07:24 AM	[MainThread  ] 479 root [INFO ]  Link: http://www.shortstoryproject.com/he/אמורי אשיג אטוסה
+26/03/2017 02:07:24 AM	[MainThread  ] 479 root [INFO ]  Name: 
+26/03/2017 02:07:24 AM	[MainThread  ] 479 root [INFO ]  Get function start
+26/03/2017 02:07:24 AM	[MainThread  ] 762 root [INFO ]  Get function end
+26/03/2017 02:07:24 AM	[MainThread  ] 763 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:07:24 AM	[MainThread  ] 763 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:15 GMT
+26/03/2017 02:07:24 AM	[MainThread  ] 763 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:24 AM	[MainThread  ] 764 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:24 AM	[MainThread  ] 764 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:24 AM	[MainThread  ] 764 root [INFO ]  CF-RAY: 345587f1322a0cef-LHR
+26/03/2017 02:07:24 AM	[MainThread  ] 765 root [INFO ]  
+26/03/2017 02:07:31 AM	[MainThread  ] 766 root [INFO ]  Link: http://www.shortstoryproject.com/he/זוג רעים
+26/03/2017 02:07:31 AM	[MainThread  ] 766 root [INFO ]  Name: 
+26/03/2017 02:07:31 AM	[MainThread  ] 767 root [INFO ]  Get function start
+26/03/2017 02:07:31 AM	[MainThread  ] 944 root [INFO ]  Get function end
+26/03/2017 02:07:31 AM	[MainThread  ] 945 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:07:31 AM	[MainThread  ] 945 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:22 GMT
+26/03/2017 02:07:31 AM	[MainThread  ] 946 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:31 AM	[MainThread  ] 946 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:31 AM	[MainThread  ] 946 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:31 AM	[MainThread  ] 946 root [INFO ]  CF-RAY: 3455881eb2926a67-LHR
+26/03/2017 02:07:31 AM	[MainThread  ] 947 root [INFO ]  
+26/03/2017 02:07:38 AM	[MainThread  ] 949 root [INFO ]  Link: http://www.shortstoryproject.com/he/מות האם
+26/03/2017 02:07:38 AM	[MainThread  ] 949 root [INFO ]  Name: 
+26/03/2017 02:07:38 AM	[MainThread  ] 949 root [INFO ]  Get function start
+26/03/2017 02:07:39 AM	[MainThread  ] 225 root [INFO ]  Get function end
+26/03/2017 02:07:39 AM	[MainThread  ] 226 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:07:39 AM	[MainThread  ] 226 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:29 GMT
+26/03/2017 02:07:39 AM	[MainThread  ] 226 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:39 AM	[MainThread  ] 227 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:39 AM	[MainThread  ] 227 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:39 AM	[MainThread  ] 227 root [INFO ]  CF-RAY: 3455884b97706b6d-LHR
+26/03/2017 02:07:39 AM	[MainThread  ] 227 root [INFO ]  
+26/03/2017 02:07:46 AM	[MainThread  ] 229 root [INFO ]  Link: http://www.shortstoryproject.com/he/ברזני
+26/03/2017 02:07:46 AM	[MainThread  ] 229 root [INFO ]  Name: 
+26/03/2017 02:07:46 AM	[MainThread  ] 230 root [INFO ]  Get function start
+26/03/2017 02:07:47 AM	[MainThread  ] 191 root [INFO ]  Get function end
+26/03/2017 02:07:47 AM	[MainThread  ] 191 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:07:47 AM	[MainThread  ] 191 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:37 GMT
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Cf-Railgun: 20a2e8d5fe stream 0.000000 0200 206c
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%A8%D7%96%D7%A0%D7%99/
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Pragma: no-cache
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  CF-RAY: 3455887917e635ea-LHR
+26/03/2017 02:07:47 AM	[MainThread  ] 192 root [INFO ]  
+26/03/2017 02:07:54 AM	[MainThread  ] 202 root [INFO ]  Link: http://www.shortstoryproject.com/he/Funny Valentine
+26/03/2017 02:07:54 AM	[MainThread  ] 202 root [INFO ]  Name: 
+26/03/2017 02:07:54 AM	[MainThread  ] 202 root [INFO ]  Get function start
+26/03/2017 02:07:54 AM	[MainThread  ] 402 root [INFO ]  Get function end
+26/03/2017 02:07:54 AM	[MainThread  ] 402 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:07:54 AM	[MainThread  ] 403 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:44 GMT
+26/03/2017 02:07:54 AM	[MainThread  ] 403 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:07:54 AM	[MainThread  ] 403 root [INFO ]  Connection: keep-alive
+26/03/2017 02:07:54 AM	[MainThread  ] 404 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:07:54 AM	[MainThread  ] 404 root [INFO ]  CF-RAY: 345588ab15c669e3-LHR
+26/03/2017 02:07:54 AM	[MainThread  ] 404 root [INFO ]  
+26/03/2017 02:08:01 AM	[MainThread  ] 414 root [INFO ]  Link: http://www.shortstoryproject.com/he/התרחשות בגשר נחל הינשוף
+26/03/2017 02:08:01 AM	[MainThread  ] 414 root [INFO ]  Name: 
+26/03/2017 02:08:01 AM	[MainThread  ] 414 root [INFO ]  Get function start
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  Get function end
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:52 GMT
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  CF-RAY: 345588d8018134b2-LHR
+26/03/2017 02:08:01 AM	[MainThread  ] 848 root [INFO ]  
+26/03/2017 02:08:08 AM	[MainThread  ] 849 root [INFO ]  Link: http://www.shortstoryproject.com/he/רשימות של עכביש
+26/03/2017 02:08:08 AM	[MainThread  ] 849 root [INFO ]  Name: 
+26/03/2017 02:08:08 AM	[MainThread  ] 849 root [INFO ]  Get function start
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  Get function end
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  Date: Sat, 25 Mar 2017 23:08:59 GMT
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  CF-RAY: 3455890687ba34b2-LHR
+26/03/2017 02:08:09 AM	[MainThread  ] 22 root [INFO ]  
+26/03/2017 02:08:16 AM	[MainThread  ] 22 root [INFO ]  Link: http://www.shortstoryproject.com/he/הישראלי הנצחי
+26/03/2017 02:08:16 AM	[MainThread  ] 22 root [INFO ]  Name: 
+26/03/2017 02:08:16 AM	[MainThread  ] 23 root [INFO ]  Get function start
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  Get function end
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  Date: Sat, 25 Mar 2017 23:09:06 GMT
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  CF-RAY: 34558933544135a2-LHR
+26/03/2017 02:08:16 AM	[MainThread  ] 200 root [INFO ]  
+26/03/2017 02:08:23 AM	[MainThread  ] 205 root [INFO ]  Link: http://www.shortstoryproject.com/he/תקלה בשירות
+26/03/2017 02:08:23 AM	[MainThread  ] 205 root [INFO ]  Name: 
+26/03/2017 02:08:23 AM	[MainThread  ] 205 root [INFO ]  Get function start
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  Get function end
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  Date: Sat, 25 Mar 2017 23:09:13 GMT
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  CF-RAY: 3455896026e635ea-LHR
+26/03/2017 02:08:23 AM	[MainThread  ] 361 root [INFO ]  
+26/03/2017 02:08:30 AM	[MainThread  ] 369 root [INFO ]  Link: http://www.shortstoryproject.com/he/חלומו של אדם מגוחך
+26/03/2017 02:08:30 AM	[MainThread  ] 369 root [INFO ]  Name: 
+26/03/2017 02:08:30 AM	[MainThread  ] 369 root [INFO ]  Get function start
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  Get function end
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  Date: Sat, 25 Mar 2017 23:09:20 GMT
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  CF-RAY: 3455898cf35a06d0-LHR
+26/03/2017 02:08:30 AM	[MainThread  ] 541 root [INFO ]  
+26/03/2017 02:08:37 AM	[MainThread  ] 547 root [INFO ]  Link: http://www.shortstoryproject.com/he/יד כמעט תכולה
+26/03/2017 02:08:37 AM	[MainThread  ] 547 root [INFO ]  Name: 
+26/03/2017 02:08:37 AM	[MainThread  ] 547 root [INFO ]  Get function start
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  Get function end
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  Date: Sat, 25 Mar 2017 23:09:27 GMT
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  CF-RAY: 345589b9e0d435ea-LHR
+26/03/2017 02:08:37 AM	[MainThread  ] 719 root [INFO ]  
+26/03/2017 02:08:44 AM	[MainThread  ] 719 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 02:08:44 AM	[MainThread  ] 719 root [INFO ]  Name: 
+26/03/2017 02:08:44 AM	[MainThread  ] 719 root [INFO ]  Get function start
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  Get function end
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  Date: Sat, 25 Mar 2017 23:09:35 GMT
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  Connection: keep-alive
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  CF-RAY: 345589e6c58e6a67-LHR
+26/03/2017 02:08:44 AM	[MainThread  ] 907 root [INFO ]  
+26/03/2017 02:11:34 AM	[MainThread  ] 563 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:11:34 AM	[MainThread  ] 563 root [INFO ]  Name: 
+26/03/2017 02:11:34 AM	[MainThread  ] 563 root [INFO ]  Get function start
+26/03/2017 02:13:54 AM	[MainThread  ] 953 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:13:54 AM	[MainThread  ] 953 root [INFO ]  Name: 
+26/03/2017 02:13:54 AM	[MainThread  ] 953 root [INFO ]  Get function start
+26/03/2017 02:14:21 AM	[MainThread  ] 686 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:14:21 AM	[MainThread  ] 686 root [INFO ]  Name: 
+26/03/2017 02:14:21 AM	[MainThread  ] 686 root [INFO ]  Get function start
+26/03/2017 02:14:30 AM	[MainThread  ] 672 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:14:30 AM	[MainThread  ] 672 root [INFO ]  Name: 
+26/03/2017 02:14:30 AM	[MainThread  ] 672 root [INFO ]  Get function start
+26/03/2017 02:15:03 AM	[MainThread  ] 327 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:15:03 AM	[MainThread  ] 327 root [INFO ]  Name: 
+26/03/2017 02:15:03 AM	[MainThread  ] 327 root [INFO ]  Get function start
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Get function end
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Date: Sat, 25 Mar 2017 23:15:55 GMT
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Cf-Railgun: ec1e070a76 stream 0.000000 0200 206c
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Pragma: no-cache
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  CF-RAY: 34559325062906d0-LHR
+26/03/2017 02:15:04 AM	[MainThread  ] 860 root [INFO ]  
+26/03/2017 02:15:11 AM	[MainThread  ] 877 root [INFO ]  Link: http://www.shortstoryproject.com/he/קוֹפִּי ופֵּייסְט
+26/03/2017 02:15:11 AM	[MainThread  ] 877 root [INFO ]  Name: 
+26/03/2017 02:15:11 AM	[MainThread  ] 877 root [INFO ]  Get function start
+26/03/2017 02:15:12 AM	[MainThread  ] 49 root [INFO ]  Get function end
+26/03/2017 02:15:12 AM	[MainThread  ] 49 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:15:12 AM	[MainThread  ] 49 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:02 GMT
+26/03/2017 02:15:12 AM	[MainThread  ] 49 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:12 AM	[MainThread  ] 64 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:12 AM	[MainThread  ] 64 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:12 AM	[MainThread  ] 64 root [INFO ]  CF-RAY: 3455935a763b1389-LHR
+26/03/2017 02:15:12 AM	[MainThread  ] 64 root [INFO ]  
+26/03/2017 02:15:19 AM	[MainThread  ] 73 root [INFO ]  Link: http://www.shortstoryproject.com/he/האספנית
+26/03/2017 02:15:19 AM	[MainThread  ] 73 root [INFO ]  Name: 
+26/03/2017 02:15:19 AM	[MainThread  ] 73 root [INFO ]  Get function start
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Get function end
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:10 GMT
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Cf-Railgun: d8f27636c1 stream 0.000000 0200 206c
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%94%D7%90%D7%A1%D7%A4%D7%A0%D7%99%D7%AA/
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Pragma: no-cache
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  CF-RAY: 3455938774613548-LHR
+26/03/2017 02:15:20 AM	[MainThread  ] 11 root [INFO ]  
+26/03/2017 02:15:27 AM	[MainThread  ] 25 root [INFO ]  Link: http://www.shortstoryproject.com/he/אמורי אשיג אטוסה
+26/03/2017 02:15:27 AM	[MainThread  ] 25 root [INFO ]  Name: 
+26/03/2017 02:15:27 AM	[MainThread  ] 25 root [INFO ]  Get function start
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  Get function end
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:17 GMT
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  CF-RAY: 345593b9323f69e3-LHR
+26/03/2017 02:15:27 AM	[MainThread  ] 213 root [INFO ]  
+26/03/2017 02:15:34 AM	[MainThread  ] 222 root [INFO ]  Link: http://www.shortstoryproject.com/he/זוג רעים
+26/03/2017 02:15:34 AM	[MainThread  ] 222 root [INFO ]  Name: 
+26/03/2017 02:15:34 AM	[MainThread  ] 222 root [INFO ]  Get function start
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  Get function end
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:24 GMT
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  CF-RAY: 345593e6205b06ee-LHR
+26/03/2017 02:15:34 AM	[MainThread  ] 394 root [INFO ]  
+26/03/2017 02:15:41 AM	[MainThread  ] 425 root [INFO ]  Link: http://www.shortstoryproject.com/he/מות האם
+26/03/2017 02:15:41 AM	[MainThread  ] 425 root [INFO ]  Name: 
+26/03/2017 02:15:41 AM	[MainThread  ] 425 root [INFO ]  Get function start
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  Get function end
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:31 GMT
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  CF-RAY: 34559413155735a2-LHR
+26/03/2017 02:15:41 AM	[MainThread  ] 597 root [INFO ]  
+26/03/2017 02:15:48 AM	[MainThread  ] 603 root [INFO ]  Link: http://www.shortstoryproject.com/he/ברזני
+26/03/2017 02:15:48 AM	[MainThread  ] 603 root [INFO ]  Name: 
+26/03/2017 02:15:48 AM	[MainThread  ] 603 root [INFO ]  Get function start
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Get function end
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:39 GMT
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Connection: keep-alive
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Cf-Railgun: 908b57499b stream 0.000000 0200 206c
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%A8%D7%96%D7%A0%D7%99/
+26/03/2017 02:15:49 AM	[MainThread  ] 706 root [INFO ]  Pragma: no-cache
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  CF-RAY: 3455944006ca1389-LHR
+26/03/2017 02:15:49 AM	[MainThread  ] 721 root [INFO ]  
+26/03/2017 02:16:03 AM	[MainThread  ] 742 root [INFO ]  Link: http://www.shortstoryproject.com/he/התרחשות בגשר נחל הינשוף
+26/03/2017 02:16:03 AM	[MainThread  ] 742 root [INFO ]  Name: 
+26/03/2017 02:16:03 AM	[MainThread  ] 742 root [INFO ]  Get function start
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  Get function end
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  Date: Sat, 25 Mar 2017 23:16:54 GMT
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  Connection: keep-alive
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  CF-RAY: 3455949f464e34f4-LHR
+26/03/2017 02:16:04 AM	[MainThread  ] 24 root [INFO ]  
+26/03/2017 02:16:11 AM	[MainThread  ] 29 root [INFO ]  Link: http://www.shortstoryproject.com/he/רשימות של עכביש
+26/03/2017 02:16:11 AM	[MainThread  ] 29 root [INFO ]  Name: 
+26/03/2017 02:16:11 AM	[MainThread  ] 29 root [INFO ]  Get function start
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  Get function end
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  Date: Sat, 25 Mar 2017 23:17:01 GMT
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  Connection: keep-alive
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  CF-RAY: 345594cc31a83542-LHR
+26/03/2017 02:16:11 AM	[MainThread  ] 232 root [INFO ]  
+26/03/2017 02:16:18 AM	[MainThread  ] 246 root [INFO ]  Link: http://www.shortstoryproject.com/he/הישראלי הנצחי
+26/03/2017 02:16:18 AM	[MainThread  ] 246 root [INFO ]  Name: 
+26/03/2017 02:16:18 AM	[MainThread  ] 246 root [INFO ]  Get function start
+26/03/2017 02:16:18 AM	[MainThread  ] 417 root [INFO ]  Get function end
+26/03/2017 02:16:18 AM	[MainThread  ] 417 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:16:18 AM	[MainThread  ] 417 root [INFO ]  Date: Sat, 25 Mar 2017 23:17:08 GMT
+26/03/2017 02:16:18 AM	[MainThread  ] 417 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:16:18 AM	[MainThread  ] 433 root [INFO ]  Connection: keep-alive
+26/03/2017 02:16:18 AM	[MainThread  ] 433 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:16:18 AM	[MainThread  ] 433 root [INFO ]  CF-RAY: 345594f947ae6aa3-LHR
+26/03/2017 02:16:18 AM	[MainThread  ] 433 root [INFO ]  
+26/03/2017 02:16:25 AM	[MainThread  ] 437 root [INFO ]  Link: http://www.shortstoryproject.com/he/תקלה בשירות
+26/03/2017 02:16:25 AM	[MainThread  ] 437 root [INFO ]  Name: 
+26/03/2017 02:16:25 AM	[MainThread  ] 437 root [INFO ]  Get function start
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  Get function end
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  Date: Sat, 25 Mar 2017 23:17:15 GMT
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  Connection: keep-alive
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  CF-RAY: 34559526310b34f4-LHR
+26/03/2017 02:16:25 AM	[MainThread  ] 609 root [INFO ]  
+26/03/2017 02:16:36 AM	[MainThread  ] 703 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:16:36 AM	[MainThread  ] 703 root [INFO ]  Name: 
+26/03/2017 02:16:36 AM	[MainThread  ] 703 root [INFO ]  Get function start
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Get function end
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Date: Sat, 25 Mar 2017 23:17:28 GMT
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Connection: keep-alive
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Set-Cookie: __cfduid=ddc7a6845594c90268c8e7613a1f47a3b1490483847; expires=Sun, 25-Mar-18 23:17:27 GMT; path=/; domain=.shortstoryproject.com; HttpOnly
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Cf-Railgun: direct (starting new WAN connection)
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Pragma: no-cache
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Set-Cookie: PHPSESSID=b221b98430f7abf56760b9ba4421ecfe; path=/
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  CF-RAY: 3455956cb53d0a90-LHR
+26/03/2017 02:16:38 AM	[MainThread  ] 172 root [INFO ]  
+26/03/2017 02:17:20 AM	[MainThread  ] 245 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 02:17:20 AM	[MainThread  ] 245 root [INFO ]  Name: 
+26/03/2017 02:17:20 AM	[MainThread  ] 245 root [INFO ]  Get function start
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Get function end
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:11 GMT
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Cf-Railgun: 05410cb7f0 stream 0.000000 0200 206c
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Pragma: no-cache
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  CF-RAY: 3455967cc46b69dd-LHR
+26/03/2017 02:17:21 AM	[MainThread  ] 330 root [INFO ]  
+26/03/2017 02:17:28 AM	[MainThread  ] 335 root [INFO ]  Link: http://www.shortstoryproject.com/he/קוֹפִּי ופֵּייסְט
+26/03/2017 02:17:28 AM	[MainThread  ] 335 root [INFO ]  Name: 
+26/03/2017 02:17:28 AM	[MainThread  ] 335 root [INFO ]  Get function start
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  Get function end
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:18 GMT
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  CF-RAY: 345596af756169dd-LHR
+26/03/2017 02:17:28 AM	[MainThread  ] 522 root [INFO ]  
+26/03/2017 02:17:35 AM	[MainThread  ] 537 root [INFO ]  Link: http://www.shortstoryproject.com/he/האספנית
+26/03/2017 02:17:35 AM	[MainThread  ] 537 root [INFO ]  Name: 
+26/03/2017 02:17:35 AM	[MainThread  ] 537 root [INFO ]  Get function start
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Get function end
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:26 GMT
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Cf-Railgun: cee3b77fba stream 0.000000 0200 206c
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%94%D7%90%D7%A1%D7%A4%D7%A0%D7%99%D7%AA/
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Pragma: no-cache
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  CF-RAY: 345596dc73d469dd-LHR
+26/03/2017 02:17:36 AM	[MainThread  ] 511 root [INFO ]  
+26/03/2017 02:17:43 AM	[MainThread  ] 516 root [INFO ]  Link: http://www.shortstoryproject.com/he/אמורי אשיג אטוסה
+26/03/2017 02:17:43 AM	[MainThread  ] 516 root [INFO ]  Name: 
+26/03/2017 02:17:43 AM	[MainThread  ] 516 root [INFO ]  Get function start
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  Get function end
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:33 GMT
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  CF-RAY: 3455970e46c534ac-LHR
+26/03/2017 02:17:43 AM	[MainThread  ] 704 root [INFO ]  
+26/03/2017 02:17:50 AM	[MainThread  ] 704 root [INFO ]  Link: http://www.shortstoryproject.com/he/זוג רעים
+26/03/2017 02:17:50 AM	[MainThread  ] 704 root [INFO ]  Name: 
+26/03/2017 02:17:50 AM	[MainThread  ] 704 root [INFO ]  Get function start
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  Get function end
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:41 GMT
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  CF-RAY: 3455973b3064359c-LHR
+26/03/2017 02:17:50 AM	[MainThread  ] 892 root [INFO ]  
+26/03/2017 02:17:57 AM	[MainThread  ] 899 root [INFO ]  Link: http://www.shortstoryproject.com/he/מות האם
+26/03/2017 02:17:57 AM	[MainThread  ] 899 root [INFO ]  Name: 
+26/03/2017 02:17:57 AM	[MainThread  ] 899 root [INFO ]  Get function start
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  Get function end
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:48 GMT
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  Connection: keep-alive
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  CF-RAY: 34559768154e34ac-LHR
+26/03/2017 02:17:58 AM	[MainThread  ] 71 root [INFO ]  
+26/03/2017 02:18:05 AM	[MainThread  ] 77 root [INFO ]  Link: http://www.shortstoryproject.com/he/ברזני
+26/03/2017 02:18:05 AM	[MainThread  ] 77 root [INFO ]  Name: 
+26/03/2017 02:18:05 AM	[MainThread  ] 77 root [INFO ]  Get function start
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Get function end
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Date: Sat, 25 Mar 2017 23:18:56 GMT
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Cf-Railgun: 4977fc3f81 stream 0.000000 0200 206c
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%A8%D7%96%D7%A0%D7%99/
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Pragma: no-cache
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  CF-RAY: 34559794f6300ce9-LHR
+26/03/2017 02:18:06 AM	[MainThread  ] 173 root [INFO ]  
+26/03/2017 02:18:13 AM	[MainThread  ] 188 root [INFO ]  Link: http://www.shortstoryproject.com/he/Funny Valentine
+26/03/2017 02:18:13 AM	[MainThread  ] 188 root [INFO ]  Name: 
+26/03/2017 02:18:13 AM	[MainThread  ] 188 root [INFO ]  Get function start
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  Get function end
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:03 GMT
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  CF-RAY: 345597c796820ce9-LHR
+26/03/2017 02:18:13 AM	[MainThread  ] 359 root [INFO ]  
+26/03/2017 02:18:20 AM	[MainThread  ] 360 root [INFO ]  Link: http://www.shortstoryproject.com/he/התרחשות בגשר נחל הינשוף
+26/03/2017 02:18:20 AM	[MainThread  ] 360 root [INFO ]  Name: 
+26/03/2017 02:18:20 AM	[MainThread  ] 360 root [INFO ]  Get function start
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  Get function end
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:10 GMT
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  CF-RAY: 345597f4710c06d6-LHR
+26/03/2017 02:18:20 AM	[MainThread  ] 532 root [INFO ]  
+26/03/2017 02:18:27 AM	[MainThread  ] 532 root [INFO ]  Link: http://www.shortstoryproject.com/he/רשימות של עכביש
+26/03/2017 02:18:27 AM	[MainThread  ] 532 root [INFO ]  Name: 
+26/03/2017 02:18:27 AM	[MainThread  ] 532 root [INFO ]  Get function start
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  Get function end
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:18 GMT
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  CF-RAY: 34559821579a6a25-LHR
+26/03/2017 02:18:28 AM	[MainThread  ] 32 root [INFO ]  
+26/03/2017 02:18:35 AM	[MainThread  ] 47 root [INFO ]  Link: http://www.shortstoryproject.com/he/הישראלי הנצחי
+26/03/2017 02:18:35 AM	[MainThread  ] 47 root [INFO ]  Name: 
+26/03/2017 02:18:35 AM	[MainThread  ] 47 root [INFO ]  Get function start
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  Get function end
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:25 GMT
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  CF-RAY: 3455985044373542-LHR
+26/03/2017 02:18:35 AM	[MainThread  ] 235 root [INFO ]  
+26/03/2017 02:18:42 AM	[MainThread  ] 250 root [INFO ]  Link: http://www.shortstoryproject.com/he/תקלה בשירות
+26/03/2017 02:18:42 AM	[MainThread  ] 250 root [INFO ]  Name: 
+26/03/2017 02:18:42 AM	[MainThread  ] 250 root [INFO ]  Get function start
+26/03/2017 02:18:42 AM	[MainThread  ] 422 root [INFO ]  Get function end
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:32 GMT
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  CF-RAY: 3455987d570469dd-LHR
+26/03/2017 02:18:42 AM	[MainThread  ] 437 root [INFO ]  
+26/03/2017 02:18:49 AM	[MainThread  ] 439 root [INFO ]  Link: http://www.shortstoryproject.com/he/חלומו של אדם מגוחך
+26/03/2017 02:18:49 AM	[MainThread  ] 439 root [INFO ]  Name: 
+26/03/2017 02:18:49 AM	[MainThread  ] 439 root [INFO ]  Get function start
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  Get function end
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:39 GMT
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  CF-RAY: 345598aa31013542-LHR
+26/03/2017 02:18:49 AM	[MainThread  ] 605 root [INFO ]  
+26/03/2017 02:18:56 AM	[MainThread  ] 611 root [INFO ]  Link: http://www.shortstoryproject.com/he/יד כמעט תכולה
+26/03/2017 02:18:56 AM	[MainThread  ] 611 root [INFO ]  Name: 
+26/03/2017 02:18:56 AM	[MainThread  ] 611 root [INFO ]  Get function start
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  Get function end
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:47 GMT
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  Connection: keep-alive
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  CF-RAY: 345598d713950a90-LHR
+26/03/2017 02:18:56 AM	[MainThread  ] 892 root [INFO ]  
+26/03/2017 02:19:03 AM	[MainThread  ] 907 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 02:19:03 AM	[MainThread  ] 907 root [INFO ]  Name: 
+26/03/2017 02:19:03 AM	[MainThread  ] 907 root [INFO ]  Get function start
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  Get function end
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  Date: Sat, 25 Mar 2017 23:19:54 GMT
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  Connection: keep-alive
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  CF-RAY: 34559904b60e6b67-LHR
+26/03/2017 02:19:04 AM	[MainThread  ] 94 root [INFO ]  
+26/03/2017 08:24:29 AM	[MainThread  ] 563 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 08:24:29 AM	[MainThread  ] 563 root [INFO ]  Name: 
+26/03/2017 08:24:29 AM	[MainThread  ] 563 root [INFO ]  Get function start
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  Get function end
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  Date: Sun, 26 Mar 2017 05:25:22 GMT
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  Connection: keep-alive
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  CF-RAY: 3457b05c46c534b2-LHR
+26/03/2017 08:24:31 AM	[MainThread  ] 688 root [INFO ]  
+26/03/2017 08:32:59 AM	[MainThread  ] 201 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 08:32:59 AM	[MainThread  ] 201 root [INFO ]  Name: 
+26/03/2017 08:32:59 AM	[MainThread  ] 201 root [INFO ]  Get function start
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  Get function end
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  HTTP/1.1 400 Bad Request
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  Date: Sun, 26 Mar 2017 05:33:50 GMT
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  Connection: keep-alive
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  CF-RAY: 3457bcc3824c3548-LHR
+26/03/2017 08:32:59 AM	[MainThread  ] 389 root [INFO ]  
+26/03/2017 08:34:51 AM	[MainThread  ] 421 root [INFO ]  Link: http://www.shortstoryproject.com/he/מה קורה, מותק?
+26/03/2017 08:34:51 AM	[MainThread  ] 421 root [INFO ]  Name: 
+26/03/2017 08:34:51 AM	[MainThread  ] 421 root [INFO ]  Get function start
+26/03/2017 08:37:23 AM	[MainThread  ] 143 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 08:37:23 AM	[MainThread  ] 143 root [INFO ]  Name: 
+26/03/2017 08:37:23 AM	[MainThread  ] 143 root [INFO ]  Get function start
+26/03/2017 08:39:11 AM	[MainThread  ] 363 root [INFO ]  Link: http://www.shortstoryproject.com/he/בן-טוביה
+26/03/2017 08:39:11 AM	[MainThread  ] 379 root [INFO ]  Name: 
+26/03/2017 08:39:11 AM	[MainThread  ] 379 root [INFO ]  Get function start
+26/03/2017 08:39:12 AM	[MainThread  ] 676 root [INFO ]  Get function end
+26/03/2017 08:39:12 AM	[MainThread  ] 692 root [INFO ]  HTTP/1.1 301 Moved Permanently
+26/03/2017 08:39:12 AM	[MainThread  ] 692 root [INFO ]  Date: Sun, 26 Mar 2017 05:40:03 GMT
+26/03/2017 08:39:12 AM	[MainThread  ] 707 root [INFO ]  Content-Type: text/html; charset=UTF-8
+26/03/2017 08:39:12 AM	[MainThread  ] 707 root [INFO ]  Transfer-Encoding: chunked
+26/03/2017 08:39:12 AM	[MainThread  ] 707 root [INFO ]  Connection: keep-alive
+26/03/2017 08:39:12 AM	[MainThread  ] 723 root [INFO ]  Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+26/03/2017 08:39:12 AM	[MainThread  ] 723 root [INFO ]  Cf-Railgun: df94334cf2 stream 0.000000 0200 206c
+26/03/2017 08:39:12 AM	[MainThread  ] 723 root [INFO ]  Expires: Thu, 19 Nov 1981 08:52:00 GMT
+26/03/2017 08:39:12 AM	[MainThread  ] 739 root [INFO ]  Host-Header: 192fc2e7e50945beb8231a492d6a8024
+26/03/2017 08:39:12 AM	[MainThread  ] 739 root [INFO ]  Location: http://www.shortstoryproject.com/he/%D7%91%D7%9F-%D7%98%D7%95%D7%91%D7%99%D7%94/
+26/03/2017 08:39:12 AM	[MainThread  ] 739 root [INFO ]  Pragma: no-cache
+26/03/2017 08:39:12 AM	[MainThread  ] 754 root [INFO ]  X-Pingback: http://www.shortstoryproject.com/xmlrpc.php
+26/03/2017 08:39:12 AM	[MainThread  ] 754 root [INFO ]  X-Powered-By: PHP/5.6.30
+26/03/2017 08:39:12 AM	[MainThread  ] 754 root [INFO ]  X-Proxy-Cache: MISS
+26/03/2017 08:39:12 AM	[MainThread  ] 770 root [INFO ]  Server: cloudflare-nginx
+26/03/2017 08:39:12 AM	[MainThread  ] 770 root [INFO ]  CF-RAY: 3457c5dba7dc1383-LHR
+26/03/2017 08:39:12 AM	[MainThread  ] 770 root [INFO ]  
+26/03/2017 04:36:35 PM	[MainThread  ] 304 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 04:36:35 PM	[MainThread  ] 421 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+26/03/2017 04:36:35 PM	[MainThread  ] 505 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+26/03/2017 04:36:35 PM	[MainThread  ] 796 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+26/03/2017 04:36:36 PM	[MainThread  ] 92 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+26/03/2017 04:36:36 PM	[MainThread  ] 732 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+26/03/2017 04:36:36 PM	[MainThread  ] 740 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+26/03/2017 04:39:38 PM	[MainThread  ] 436 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 04:39:38 PM	[MainThread  ] 556 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+26/03/2017 04:39:38 PM	[MainThread  ] 641 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+26/03/2017 04:39:38 PM	[MainThread  ] 928 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+26/03/2017 04:39:39 PM	[MainThread  ] 234 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+26/03/2017 04:39:39 PM	[MainThread  ] 885 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+26/03/2017 04:39:39 PM	[MainThread  ] 893 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+26/03/2017 04:40:41 PM	[MainThread  ] 364 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 04:40:41 PM	[MainThread  ] 486 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+26/03/2017 04:40:41 PM	[MainThread  ] 621 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+26/03/2017 04:40:41 PM	[MainThread  ] 917 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+26/03/2017 04:40:42 PM	[MainThread  ] 212 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+26/03/2017 04:40:42 PM	[MainThread  ] 865 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+26/03/2017 04:40:42 PM	[MainThread  ] 874 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+26/03/2017 04:47:57 PM	[MainThread  ] 534 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 04:47:57 PM	[MainThread  ] 598 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+26/03/2017 04:47:57 PM	[MainThread  ] 643 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+26/03/2017 04:47:57 PM	[MainThread  ] 783 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+26/03/2017 04:47:57 PM	[MainThread  ] 919 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+26/03/2017 04:47:58 PM	[MainThread  ] 257 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+26/03/2017 04:47:58 PM	[MainThread  ] 266 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
+26/03/2017 04:48:07 PM	[MainThread  ] 976 root [INFO ]  [Errno 2] No such file or directory: 'Articles\\אנגלית\\1/3 1/3 1/3.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 47 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\אין חדש, או מה הרג את הכלב?.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 99 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\אנגלית\\ארוחה עם מל"ט – רשמים מעיר תחת אש.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 270 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\דלות | ערדל.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 404 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\רוסית\\הוללות לא מתוכננת | הקופאית.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 728 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\עברית\\מה אתה מסתכל על?.json'
+26/03/2017 04:48:08 PM	[MainThread  ] 736 root [INFO ]  [Errno 22] Invalid argument: 'Articles\\ספרדית\\מה קורה, מותק?.json'
