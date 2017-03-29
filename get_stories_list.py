@@ -1,5 +1,7 @@
 import pycurl
 from io import BytesIO
+import logging
+from logger import setting_up_logger
 
 HOST = r"http://www.shortstoryproject.com/he"
 USERAGENT = r"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
@@ -7,7 +9,7 @@ ACTION_PHP = r"http://www.shortstoryproject.com/wp-content/themes/maaboret2016/a
 
 
 def urlget(header, response):
-    print('Get function start')
+    logging.info('Get function start')
     curl = pycurl.Curl()
     curl.setopt(pycurl.URL, HOST)
     curl.setopt(pycurl.USERAGENT, USERAGENT)
@@ -17,11 +19,12 @@ def urlget(header, response):
     curl.setopt(pycurl.COOKIEFILE, 'cookie.txt')
     curl.perform()
     curl.close()
-    print('Get function end')
+    logging.info('Get function end')
 
 
 def urlpost(header, response):
-    print('Post function start')
+    logging.info('Post function start')
+    logging.getLogger(__name__)
     curl = pycurl.Curl()
     curl.setopt(pycurl.POST, 1)
     curl.setopt(pycurl.URL, ACTION_PHP)
@@ -37,28 +40,27 @@ def urlpost(header, response):
     curl.setopt(pycurl.HTTPPOST, [("posts", "1000000"), ("offset", "0"), ("lang", "he")])
     curl.perform()
     curl.close()
-    print('Post function end')
+    logging.info('Post function end')
 
 
 def main():
+    setting_up_logger('debug', 'critical')
+    logging.getLogger(__name__)
     header = BytesIO()
     response = BytesIO()
-    print('Get main page & cookie')
+    logging.info('Get main page & cookie')
     urlget(header, response)
     for line in header.getvalue().splitlines():
-        print(line.decode())
+        logging.info(line.decode())
     str_response = response.getvalue().decode()
-    print(str_response)
-
-    print()
-    print()
+    logging.info(str_response)
 
     header = BytesIO()
     response = BytesIO()
-    print('Post library page loader')
+    logging.info('Post library page loader')
     urlpost(header, response)
     for line in header.getvalue().splitlines():
-        print(line.decode())
+        logging.info(line.decode())
     str_response = response.getvalue()
     with open('stories_list.html', 'wb') as file:
         file.write(str_response)
