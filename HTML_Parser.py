@@ -448,7 +448,6 @@ class HTMLParser(Singleton):
                             folders_details_dict[folder_path]['author_set'].add(json_data["Author"])
                             json_data.clear()
                         except:
-                            print('Error in')
                             continue
 
             if union_folders_list is not None:
