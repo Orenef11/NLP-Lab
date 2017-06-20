@@ -3,45 +3,42 @@ from time import sleep
 from urllib.parse import urljoin, quote, unquote
 from io import StringIO
 from requests import get
-from logger import logger_print_msg
+import logging
 from HTML_Parser import Singleton
 from lxml import etree
 from lxml.html import fromstring
 from io import BytesIO
 import pycurl
-
-HTML_PAGES = r"html_pages"
-SEPARATOR = ' --- '
-INFO_MODE = True
+from traceback import print_exc
 
 
 class StoriesURL(Singleton):
-    def __init__(self, stories_folder_path, story_page_folder_path, replace_bad_chars_list=None):
+    def __init__(self, stories_page_folder_path, website_page_folder_path, replace_bad_chars_list=None):
         if replace_bad_chars_list is None:
             replace_bad_chars_list = ['/', '\\', '?', '"', '|', '\t']
         self.__host_parameters_dict = {
             "am_oved_hebrew":
                 {
                     "host": "http://www.am-oved.co.il/page_23292",
-                    "filename": path.join(stories_folder_path, "am_oved_hebrew.html")
+                    "filename": path.join(stories_page_folder_path, "am_oved_hebrew.html")
                 },
 
             "am_oved":
                 {
                     "host": "http://www.am-oved.co.il/page_23290",
-                    "filename": path.join(stories_folder_path, "am_oved.html")
+                    "filename": path.join(stories_page_folder_path, "am_oved.html")
                 },
 
             "kibutz_poalim":
                 {
                     "host": "http://www.kibutz-poalim.co.il/פרקים_ראשונים?bscrp=",
-                    "filename": path.join(stories_folder_path, "kibutz_poalim.html")
+                    "filename": path.join(stories_page_folder_path, "kibutz_poalim.html")
                 },
 
             "dortome":
                 {
                     "host": "http://www.dortome.com/site/detail/detail/detailDetail.asp?detail_id=3243030&iPageNum=",
-                    "filename": path.join(stories_folder_path, "dortome.html")
+                    "filename": path.join(stories_page_folder_path, "dortome.html")
                 },
 
             "short_story_project":
@@ -49,13 +46,13 @@ class StoriesURL(Singleton):
                     "host": "http://www.shortstoryproject.com/he/ספרייה",
                     "action_php": "http://www.shortstoryproject.com/wp-content/themes/maaboret2016/action.php",
                     'http_arg': [("posts", "1000000"), ("offset", "0"), ("lang", "he")],
-                    "filename": path.join(stories_folder_path, "short_story_project.html")
+                    "filename": path.join(stories_page_folder_path, "short_story_project.html")
                 }
         }
         self.__replace_bad_chars_list = replace_bad_chars_list
         self.__parser = etree.HTMLParser()
-        self.__website_stories_link_folder_path = stories_folder_path
-        self.__story_page_folder_path = story_page_folder_path
+        self.__website_stories_link_folder_path = stories_page_folder_path
+        self.__story_page_folder_path = website_page_folder_path
 
     def __create_all_stories_links_file(self):
         for website_name in self.__host_parameters_dict.keys():
@@ -67,16 +64,17 @@ class StoriesURL(Singleton):
             elif url.startswith('http://www.am-oved.co.il'):
                 self.__save_data_file(file_path, url)
             elif url.startswith('http://www.shortstoryproject.com/he'):
-                logger_print_msg("Create {0} file".format(file_path))
+                logging.debug("Create {0} file".format(file_path))
                 try:
                     with open(file_path, 'wb') as file:
                         file.write(self.__url_post(website_name))
                 except Exception as _:
-                    logger_print_msg("Cann't save file: {0}".format(file_path))
+                    logging.debug("\nCann't save file: {0}".format(file_path))
+                    logging.info(print_exc())
 
     def __url_post(self, website_name):
         header, response = BytesIO(), BytesIO()
-        logger_print_msg('Post function start')
+        logging.debug("\nPost function start")
         curl = pycurl.Curl()
         curl.setopt(pycurl.POST, 1)
         curl.setopt(pycurl.URL, self.__host_parameters_dict[website_name]['action_php'])
@@ -91,19 +89,19 @@ class StoriesURL(Singleton):
         curl.setopt(pycurl.HTTPPOST, self.__host_parameters_dict[website_name]['http_arg'])
         curl.perform()
         curl.close()
-        logger_print_msg('Post function end')
+        logging.debug("\nPost function end")
         return response.getvalue()
 
     @staticmethod
     def __save_data_file(file_path, url):
-        logger_print_msg("Create {0} file".format(file_path))
+        logging.debug("\nCreate {0} file".format(file_path))
         try:
             with open(file_path, mode='w', encoding='utf-8') as file:
                 file.write(get(url).text)
         except Exception as e:
-            print(e)
-            logger_print_msg("Cann't save file: {0}".format(file_path))
-            print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+            logging.debug("\nCann't save file: {0}".format(file_path))
+            logging.info(print_exc())
+
         sleep(3)
 
     def __get_stories_links_from_stories_file(self, root):
@@ -125,8 +123,8 @@ class StoriesURL(Singleton):
                 if "href" in element.attrib.keys():
                     try:
                         title_name = element.text.strip()
-                    except Exception as e:
-                        logger_print_msg("Bad url link {0}".format(unquote(element.attrib['href'])))
+                    except Exception as _:
+                        logging.info("\nBad url link {0}".format(unquote(element.attrib['href'])))
                         continue
 
                     ''' Clear bad chars '''
@@ -167,7 +165,7 @@ class StoriesURL(Singleton):
                     ''' Find all stories in page '''
                     root = root[0].findall(".//table[@cellpadding='5']")
             else:
-                logger_print_msg("The inserted {0} link is invalid".format(web_url))
+                logging.info("\nThe inserted {0} link is invalid".format(web_url))
                 url_an_title_list.clear()
                 break
 
@@ -224,7 +222,7 @@ class StoriesURL(Singleton):
 
             ''' Create new folder to new website'''
             if not path.exists(website_stories_link_path):
-                logger_print_msg("Create {0} folder".format(website_stories_link_path))
+                logging.debug("\nCreate {0} folder".format(website_stories_link_path))
                 makedirs(website_stories_link_path)
 
             if create_new_stories_link_file_flag is True or len(listdir(self.__website_stories_link_folder_path)) \

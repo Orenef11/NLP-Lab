@@ -1,10 +1,5 @@
-"""" sfsf sdfsdf sf s"""
-
 import logging
 from os import makedirs, path, getcwd
-
-SPACE = '\n'
-INFO_MODE = True
 
 LEVELS = {
     'debug': logging.DEBUG,
@@ -17,7 +12,6 @@ MODE = 'a'
 
 
 def setting_up_logger(file_logging_level, console_logging_level, file_path):
-    """bla bla lba"""
     file_logging_level = str(file_logging_level).lower()
     console_logging_level = str(console_logging_level).lower()
     if file_logging_level not in LEVELS or console_logging_level not in LEVELS:
@@ -45,13 +39,10 @@ def setting_up_logger(file_logging_level, console_logging_level, file_path):
     logging.getLogger('').addHandler(console)
 
     if create_log_file:
-        logging.debug(SPACE + "Create '{0}' folder in {1} path".format(folder_path, getcwd()))
-        logging.info(SPACE + "Create '{0}' folder in {1} path".format(folder_path, getcwd()))
+        logging.debug("\nCreate '{0}' folder in {1} path".format(folder_path, getcwd()))
 
 
 def change_logger_file(old_logger_file_path, new_logger_file_path, mode='debug'):
-    """bla bla lba"""
-
     mode = mode.lower()
     if mode not in LEVELS:
         print("Error log logging: The values to be inserted are: ", LEVELS.keys())
@@ -60,10 +51,10 @@ def change_logger_file(old_logger_file_path, new_logger_file_path, mode='debug')
     new_logger_folder_path = path.split(new_logger_file_path)[0]
     if not path.isdir(new_logger_folder_path):
         makedirs(new_logger_folder_path)
-        logging.debug(SPACE + "Create '{0}' folder in {1} path".format(new_logger_folder_path, getcwd()))
-        logging.info(SPACE + "Create '{0}' folder in {1} path".format(new_logger_folder_path, getcwd()))
+        logging.debug("\nCreate '{0}' folder in {1} path".format(new_logger_folder_path, getcwd()))
 
     log = logging.getLogger()
+    old_log_handler =None
     logger_change_flag = False
     for log_handler in log.handlers:
         if isinstance(log_handler, logging.FileHandler) and \
@@ -74,9 +65,10 @@ def change_logger_file(old_logger_file_path, new_logger_file_path, mode='debug')
             break
 
     if not logger_change_flag:
-        logging.debug(SPACE + "{} file that not exist".format(old_logger_file_path))
-
-    old_log_handler.stream.close()
+        logging.debug("\n{} file that not exist".format(old_logger_file_path))
+    
+    if old_log_handler is not None:
+        old_log_handler.stream.close()
     log.removeHandler(old_log_handler)
     file_handler = logging.FileHandler(new_logger_file_path, 'a')
     formatter = logging.Formatter("%(asctime)s\t[%(filename)s %(funcName)s %(lineno)d]  %(msecs)d %(name)s "
@@ -84,10 +76,3 @@ def change_logger_file(old_logger_file_path, new_logger_file_path, mode='debug')
     file_handler.setFormatter(formatter)
     log.addHandler(file_handler)
 
-
-def logger_print_msg(msg):
-    """bla bla lba"""
-
-    logging.debug(SPACE + msg)
-    if INFO_MODE:
-        logging.info(SPACE + msg)
