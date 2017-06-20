@@ -2,33 +2,33 @@ from codecs import open
 from json import loads, dumps
 from os import path, listdir, makedirs
 from shutil import move
-from logger import logger_print_msg
-
-SEPARATION = ':'
+from traceback import print_exc
+import logging
 
 
 class RenameAndAddDetails(object):
-    def __init__(self, info_stories_file_path, unknown_folder_path, log_path):
-        self.__details_dict = self.__parser_file(info_stories_file_path)
+    def __init__(self, info_stories_file, unknown_folder_path, log_path, separator_char):
+        self.__separator_char = separator_char
+        self.__details_dict = self.__parser_file(info_stories_file)
         self.__unknown_folder_path = unknown_folder_path
         self.__log_path = log_path
 
-    @staticmethod
-    def __parser_file(file_path):
+    def __parser_file(self, file_path):
         details_dict = {}
         with open(file_path, mode='r', encoding='utf-8') as f:
             for idx, line in enumerate(f.readlines()):
                 idx += 1
-                if SEPARATION not in line or len(line.split(SEPARATION)) != 4:
-                    print("Invalid structure(line {}): Each line should be from the following structure".format(idx))
-                    print("Name of the story: Name of the author: Name of the translator: "
-                          "The language of the story.\r\nIn addition, it is important to note that "
-                          "'{}' is part of a structure!".format(SEPARATION))
+                if self.__separator_char not in line or len(line.split(self.__separator_char)) != 4:
+                    logging.info("Invalid structure(line {}): Each line should be from the following structure"
+                                 .format(idx))
+                    logging.info("Name of the story: Name of the author: Name of the translator: The language of "
+                                 "the story.\r\nIn addition, it is important to note that '{}' is part of a structure!"
+                                 .format(self.__separator_char))
                     continue
                 line_list = line.split(':')
                 if '(' in line_list[0] and ')' not in line_list[0] or '(' not in line_list[0] and ')' in line_list[0]:
-                    print("Invalid book's name (line {}): If you want to change the name of the book, "
-                          "you must type it under parentheses, for example 'old name (new name)'.".format(idx))
+                    logging.info("Invalid book's name (line {}): If you want to change the name of the book, you must "
+                                 "type it under parentheses, for example 'old name (new name)'.".format(idx))
                     continue
                 name_of_book = None
                 if '(' and ')' in line_list[0]:
@@ -57,7 +57,7 @@ class RenameAndAddDetails(object):
         if '.json' in book_name:
             book_name = book_name.replace('.json', '')
         if book_name not in self.__details_dict.keys():
-            logger_print_msg("The '{}' book does not exist".format(book_name))
+            logging.debug("\nThe '{}' book does not exist".format(book_name))
             return None
         new_name_book = book_name
         if 'new_name_for_book' in self.__details_dict[book_name].keys():
@@ -72,17 +72,18 @@ class RenameAndAddDetails(object):
 
         with open(filename=book_path, mode='w', encoding='utf8') as f:
             f.write(dumps(book_json, ensure_ascii=False, indent=4, sort_keys=True))
-        new_book_path = path.join(path.join('Articles', book_json['Language']), new_name_book + '.json')
-        # print(path.isfile(book_path))
-        # print(new_book_path)
+        new_book_path = path.join(path.join(path.split(self.__unknown_folder_path)[0],
+                                            book_json['Language']), new_name_book + '.json')
+        
         try:
             if not path.isdir(path.split(new_book_path)[0]):
                 makedirs(path.split(new_book_path)[0])
             move(book_path, new_book_path)
-        except Exception as e:
-            print(str(e))
+        except Exception as _:
+            logging.info(print_exc())
             exit()
-        logger_print_msg("The file move from '{}' to '{}'".format(book_path, new_book_path))
+
+        logging.debug("\nThe file move from '{}' to '{}'".format(book_path, new_book_path))
 
     def run(self):
         files_path_list = [path.join(self.__unknown_folder_path, filename) for filename in

@@ -1,10 +1,10 @@
-from json import dumps, load
+from json import dumps
 from os import listdir, stat, remove, rename
 from logger import *
+import logging
 from traceback import print_exc
 from lxml.html import fromstring
-from shutil import copyfile, rmtree, move
-
+from shutil import copyfile
 
 class Singleton(object):
     def __new__(cls, *args, **kwds):
@@ -20,7 +20,7 @@ class Singleton(object):
 
 
 class HTMLParser(Singleton):
-    def __init__(self, page_stories_data_folder_path, stories_report_path, log_path, json_stories_path,
+    def __init__(self, stories_html_pages_folder_path, log_path, json_stories_path,
                  debugging_output_folder_path, unsaved_stoires_path, replace_bad_chars_list=None):
         if replace_bad_chars_list is None:
             replace_bad_chars_list = ['/', '\\', '?', '"', '|', '(', ')', ',', '.']
@@ -58,9 +58,8 @@ class HTMLParser(Singleton):
                 }
         }
         self.__story_data_dict = {}
-        self.__stories_page_data_folder_path = page_stories_data_folder_path
+        self.__stories_html_pages_folder_pathh = stories_html_pages_folder_path
         self.__log_path = log_path
-        self.__report_stories = stories_report_path
         self.__json_stories_path = json_stories_path
         self.__debugging_output_folder_path = debugging_output_folder_path
         self.__unsaved_stories_path = unsaved_stoires_path
@@ -400,12 +399,11 @@ class HTMLParser(Singleton):
 
     def __save_json_file(self, file_path):
         try:
-            # if '\ufb35' in file_path:
-            #     file_path = file_path.replace('\ufb35', '')
-            logger_print_msg("Write data to {0} file".format(file_path))
+            logging.debug("\nWrite data to {0} file".format(file_path))
             with open(file_path, 'w', encoding='utf8') as f:
                 f.write(dumps(self.__story_data_dict, ensure_ascii=False, indent=4, sort_keys=True))
-            logger_print_msg("Finish write data to {0} file".format(file_path))
+
+            logging.debug("\nFinish write data to {0} file".format(file_path))
 
         except Exception as e:
             raise Exception
@@ -413,92 +411,9 @@ class HTMLParser(Singleton):
     @staticmethod
     def __check_exists_folder_and_create(folder_path):
         if not path.exists(folder_path):
-            logging.debug(SPACE + "Create {0} in Articles folder".format(folder_path))
-            logging.info(SPACE + "Create {0} in Articles folder".format(folder_path))
+            logging.debug("\nCreate {0} in Articles folder".format(folder_path))
             makedirs(folder_path)
-            logging.debug(SPACE + "Finish create {0} in Articles folder".format(folder_path))
-            logging.info(SPACE + "Finish create {0} in Articles folder".format(folder_path))
-
-    def __count_file_in_folder(self, union_folders_list=None):
-        if union_folders_list is not None:
-            for tuple_idx, union_folders_name_tuple in enumerate(union_folders_list):
-                new_union_folders_tuple = tuple([path.join(self.__stories_page_data_folder_path, filename) for filename
-                                                 in union_folders_name_tuple])
-                union_folders_list[tuple_idx] = new_union_folders_tuple
-
-        folders_names_list = listdir(self.__json_stories_path)
-        folders_details_dict = {}
-        try:
-            for folder_name in folders_names_list:
-                folder_path = path.join(self.__json_stories_path, folder_name)
-                folders_details_dict[folder_path] = {'files_count': len(listdir(folder_path)),
-                                                     'words_count': 0, 'author_set': set()}
-
-                for filename in listdir(folder_path):
-                    file_path = path.join(folder_path, filename)
-                    if '.json' not in file_path:
-                        remove(file_path)
-                        logger_print_msg("Remove '{}' file, because it is not formatted json".format(file_path))
-                        continue
-                    with open(file_path, mode='r', encoding='UTF-8') as file2:
-                        try:
-                            json_data = load(file2)
-                            folders_details_dict[folder_path]['words_count'] += len(json_data['Article-text']
-                                                                                    .split(" "))
-                            folders_details_dict[folder_path]['author_set'].add(json_data["Author"])
-                            json_data.clear()
-                        except:
-                            continue
-
-            if union_folders_list is not None:
-                for union_folders_name_tuple in union_folders_list:
-                    new_folder_path = ''
-                    union_folders_size = len(union_folders_name_tuple) - 1
-                    union_folders_flag = True
-                    for idx, folder_path in enumerate(union_folders_name_tuple):
-                        if folders_details_dict[folder_path]["files_count"] < 4 or \
-                                        len(folders_details_dict[folder_path]['author_set']) < 4:
-
-                            union_folders_flag = False
-                            break
-                        new_folder_path += path.split(folder_path)[-1]
-                        if idx < union_folders_size:
-                            if idx + 1 == union_folders_size:
-                                new_folder_path += ' ו'
-                            else:
-                                new_folder_path += ', '
-
-                    if union_folders_flag:
-                        new_folder_path = path.join(self.__stories_page_data_folder_path, new_folder_path)
-                        if not path.isdir(new_folder_path):
-                            makedirs(new_folder_path)
-                        for folder_path in union_folders_name_tuple:
-                            for file_name in listdir(folder_path):
-                                move(path.join(folder_path, file_name),
-                                     path.join(new_folder_path, file_name))
-                            rmtree(folder_path)
-
-            files_name_sorted_list = sorted(folders_details_dict.keys())
-            with open(self.__report_stories, mode="w+", encoding='UTF-8') as f:
-                all_files_count = 0
-                for folder_name in files_name_sorted_list:
-                    files_count = folders_details_dict[folder_name]["files_count"]
-                    if files_count < 4:
-                        continue
-                    author_set = folders_details_dict[folder_name]['author_set']
-                    all_files_count += files_count
-                    f.write("{0}:\nThe amount of files in the folder is {1}\n".format(folder_name, files_count))
-                    f.write("The number of words that are in all the files in the folder is {0}\n"
-                            .format(folders_details_dict[folder_name]["words_count"]))
-                    f.write("The authors' names are {}\n".format(author_set))
-                    f.write("There are {} writers on {} stories\n".format(len(author_set), files_count))
-
-                f.write("\nThe amount of files there is {0}\n".format(all_files_count))
-                f.write("There are {0} different languages in the database".format(len(files_name_sorted_list)))
-
-        except Exception as e:
-            print_exc()
-            logging.critical(print_exc())
+            logging.debug("\nFinish create {0} in Articles folder".format(folder_path))
 
     @staticmethod
     def __open_file_to_read(filename_path):
@@ -506,7 +421,7 @@ class HTMLParser(Singleton):
             with open(filename_path, 'r', encoding='utf8') as f:
                 file_data = f.read()
         except Exception as e:
-            logging.error(str(e))
+            logging.info(str(e), print_exc())
             raise Exception
 
         return file_data
@@ -529,8 +444,8 @@ class HTMLParser(Singleton):
 
     def __get_all_html_file_path(self):
         charmap_list = ['\u202d', '\u202c', '\ufb35']
-        folders_path_list = [path.join(self.__stories_page_data_folder_path, folder_name) for folder_name in
-                             listdir(self.__stories_page_data_folder_path)]
+        folders_path_list = [path.join(self.__stories_html_pages_folder_pathh, folder_name) for folder_name in
+                             listdir(self.__stories_html_pages_folder_pathh)]
         html_files_list = []
         for folder_path in folders_path_list:
             for html_file in listdir(folder_path):
@@ -545,18 +460,17 @@ class HTMLParser(Singleton):
                     html_file = new_html_file
                 file_path = path.join(folder_path, html_file)
                 if html_file.split('.')[-1] != "html" or not html_file.endswith('html') or stat(file_path).st_size == 0:
-                    logger_print_msg("The '{}' file Is not in html format".format(file_path))
+                    logging.debug("\nThe '{}' file Is not in html format".format(file_path))
                     remove(file_path)
                     continue
 
                 html_files_list.append(file_path)
 
-        logger_print_msg("There are {} html files".format(len(html_files_list)))
+        logging.debug("\nThere are {} html files".format(len(html_files_list)))
 
         return html_files_list
 
     def run(self):
-        count, count2 = 0, 0
         unsaved_json_files_path = path.join(self.__debugging_output_folder_path, 'unsaved_stories_log.log')
 
         html_files_list = self.__get_all_html_file_path()
@@ -585,7 +499,7 @@ class HTMLParser(Singleton):
                 if story_data_dict_flag:
                     change_logger_file(self.__log_path, unsaved_json_files_path)
                     unsaved_json_files_count += 1
-                    logging.debug(SPACE + "The '{}' file unsaved".format(html_file))
+                    logging.debug("\nThe '{}' file unsaved".format(html_file))
                     change_logger_file(unsaved_json_files_path, self.__log_path)
                     continue
 
@@ -601,8 +515,6 @@ class HTMLParser(Singleton):
                 if not path.isfile(filename):
                     self.__save_json_file(filename)
                     num_of_create_new_json += 1
-
-                count += 1
 
             except:
                 original_filename = new_filename = self.__story_data_dict['Article-name']
@@ -620,13 +532,10 @@ class HTMLParser(Singleton):
 
                 logging.debug("Could not open '{0}' file, so file changed to '%{1}'"
                               .format(original_filename, self.__story_data_dict['Article-name']))
-                count2 += 1
                 continue
 
         # # [('עברית', 'אנגלית')]
-        self.__count_file_in_folder()
         change_logger_file(self.__log_path, unsaved_json_files_path)
-        logger_print_msg("The number of unsaved file are {} files".format(unsaved_json_files_count))
+        logging.info("\nThe number of unsaved file are {} files".format(unsaved_json_files_count))
         change_logger_file(unsaved_json_files_path, self.__log_path)
-        logger_print_msg("Create {0} new json files".format(num_of_create_new_json))
-        print(count, '   ', count2)
+        logging.info("\nCreate {0} new json files".format(num_of_create_new_json))
