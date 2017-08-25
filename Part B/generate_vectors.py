@@ -42,24 +42,27 @@ def get_chunks(lines, k):
     return chunks
 
 
-def get_feature_vectors(chunks, base_vector, pickle_name):
-    feature_vectors = 0
+def init_feature_vector(header_vector):
+    return [0] * len(header_vector)
+
+
+def get_feature_vectors(chunks, header_vector):
+    feature_vectors = []
 
     for chunk in chunks:
         # initialize feature vector
-        feature_vector = base_vector.copy()
+        feature_vector = init_feature_vector(header_vector)
 
         for line in chunk:
             for index, char in enumerate(line):
-                feature_vector[char] += 1
+                feature_vector[header_vector[char]] += 1
                 if index < len(line) - 1:
-                    feature_vector[char + line[index + 1]] += 1
+                    feature_vector[header_vector[char + line[index + 1]]] += 1
                 if index < len(line) - 2:
-                    feature_vector[char + line[index + 1] + line[index + 2]] += 1
+                    feature_vector[header_vector[char + line[index + 1] + line[index + 2]]] += 1
+            feature_vectors.append(feature_vector)
 
-            with open(pickle_name + '_' + str(feature_vectors) + '.pickle.gz', 'wb') as fp:
-                fp.write(gzip.compress(pickle.dumps(feature_vector)))
-            feature_vectors += 1
+    return feature_vectors
 
 def main():
     # chunk size
@@ -67,8 +70,8 @@ def main():
 
     # load the base feature vector
     print('load the base feature vector')
-    with open('counter_vector.pickle.gz', 'rb') as fp:
-        base_vector = pickle.loads(gzip.decompress(fp.read()))
+    with open('feature_vector.pickle.gz', 'rb') as fp:
+        header_vector = pickle.loads(gzip.decompress(fp.read()))
 
     # load the line
     print('load the lines')
@@ -85,11 +88,17 @@ def main():
     source_chunks = get_chunks(source_lines, k)
     translation_chunks = get_chunks(translation_lines, k)
 
-    # calculate feature vector for each chunk and store them
+    # calculate feature vector for each chunk
     print('calculate feature vector for each chunk')
-    get_feature_vectors(source_chunks, base_vector, os.path.join('feature_vectors', 'source_feature_vector'))
-    get_feature_vectors(translation_chunks, base_vector, os.path.join('feature_vectors', 'translation_feature_vector'))
+    source_feature_vectors = get_feature_vectors(source_chunks, header_vector)
+    translation_feature_vectors = get_feature_vectors(translation_chunks, header_vector)
 
+    # store the feature vectors
+    print('store the feature vectors')
+    with open('source_feature_vectors.pickle.gz', 'wb') as fp:
+        fp.write(gzip.compress(pickle.dumps(source_feature_vectors)))
+    with open('translation_feature_vectors.pickle.gz', 'wb') as fp:
+        fp.write(gzip.compress(pickle.dumps(translation_feature_vectors)))
 
 if __name__ == '__main__':
     main()

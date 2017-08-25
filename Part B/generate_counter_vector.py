@@ -11,15 +11,19 @@ def main():
         chars = pickle.load(fp)
 
     vector = dict()
+    index = 0
 
     for char in chars:
-        vector[char] = 0
+        vector[char] = index
+        index += 1
         for char2 in chars:
-            vector[char + char2] = 0
+            vector[char + char2] = index
+            index += 1
             for char3 in chars:
-                vector[char + char2 + char3] = 0
+                vector[char + char2 + char3] = index
+                index += 1
 
-    with open('counter_vector.pickle.gz', 'wb') as fp:
+    with open('feature_vector.pickle.gz', 'wb') as fp:
         fp.write(gzip.compress(pickle.dumps(vector)))
 
 
