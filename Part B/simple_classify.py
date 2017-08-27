@@ -11,25 +11,20 @@ from sklearn import svm
 def classify(training_positives, training_negatives, testing_positives, testing_negatives):
     training_x = training_positives + training_negatives
     training_y = [1] * len(training_positives) + [0] * len(training_negatives)
+    testing_x = testing_positives + testing_negatives
+    testing_y = [1] * len(testing_positives) + [0] * len(testing_negatives)
+
+    print('using {0} data points: {1} positives, and {2} negatives'.format(len(training_x), len(training_positives),
+                                                                           len(training_negatives)))
 
     # train
     print('train')
-    clf = svm.SVC()
+    clf = svm.LinearSVC()
     clf.fit(training_x, training_y)
 
     # test
     print('test')
-    correct = 0
-    for test in testing_positives:
-        result = clf.predict(test)
-        if result[0] == 1:
-            correct += 1
-    for test in testing_negatives:
-        result = clf.predict(test)
-        if result[0] == 0:
-            correct += 1
-
-    return correct / (len(testing_positives) + len(testing_negatives))
+    return clf.score(testing_x, testing_y)
 
 
 def fold(pack):
