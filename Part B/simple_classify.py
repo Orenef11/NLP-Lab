@@ -49,6 +49,7 @@ def fold(pack):
 
 
 def main():
+    multi_process = True
     # load source and translation vectors
     print('load source and translation vectors')
     with open('source_feature_vectors.pickle.gz', 'rb') as fp:
@@ -66,15 +67,23 @@ def main():
     # 10 fold
     print('10 fold')
     packed = zip([positive_slices] * 10, [negative_slices] * 10, range(10))
-    with Pool(10) as p:
-        results = p.map(fold, packed)
+
+    if multi_process:
+        # multi-process mode
+        with Pool(10) as p:
+            results = p.map(fold, packed)
+    else:
+        # single-process mode
+        results = []
+        for pack in packed:
+            results.append(fold(pack))
 
     total_resilt = 0
     for result in results:
         total_resilt += result
 
-    total_resilt /= 10
-    print(total_resilt)
+    total_resilt /= 10.0
+    print('total result {0}'.format(total_resilt))
 
 if __name__ == '__main__':
     main()
