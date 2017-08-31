@@ -6,6 +6,8 @@ import pickle
 import os
 from multiprocessing import Pool
 from sklearn import svm
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.neural_network import MLPClassifier
 
 
 def classify(training_positives, training_negatives, testing_positives, testing_negatives):
@@ -19,12 +21,15 @@ def classify(training_positives, training_negatives, testing_positives, testing_
 
     # train
     print('train')
-    clf = svm.LinearSVC()
-    clf.fit(training_x, training_y)
+    # classifier = svm.LinearSVC(dual=False)
+    #classifier = KNeighborsClassifier()
+    classifier = MLPClassifier(hidden_layer_sizes=(10,))
+
+    classifier.fit(training_x, training_y)
 
     # test
     print('test')
-    return clf.score(testing_x, testing_y)
+    return classifier.score(testing_x, testing_y)
 
 
 def fold(pack):
@@ -49,7 +54,7 @@ def fold(pack):
 
 
 def main():
-    multi_process = True
+    multi_process = False
     # load source and translation vectors
     print('load source and translation vectors')
     with open('source_feature_vectors.pickle.gz', 'rb') as fp:
@@ -60,8 +65,10 @@ def main():
     # split into 10 slices
     print('split into 10 slices')
     slice_size = len(source_feature_vectors) / 10
+    # slice_size = 100
     positive_slices = [source_feature_vectors[math.ceil(i * slice_size):math.floor((i + 1) * slice_size)] for i in range(10)]
     slice_size = len(translation_feature_vectors) / 10
+    # slice_size = 100
     negative_slices = [translation_feature_vectors[math.ceil(i * slice_size):math.floor((i + 1) * slice_size)] for i in range(10)]
 
     # 10 fold
