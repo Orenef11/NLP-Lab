@@ -6,8 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Debugging Files" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part B" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Part A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part_C" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part_B" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part_A" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Part_D" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.5.2 (/usr/bin/python3.5)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (D:\Anaconda3\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

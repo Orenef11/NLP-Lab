@@ -1,0 +1,329 @@
+Kfold number '0', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '0', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '0', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '0', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '0', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '0', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '1', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '1', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '1', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['hebrew']'
+Kfold number '1', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '1', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '1', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '2', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '2', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '2', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '2', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['other']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '2', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '3', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '3', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '3', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['hebrew']'
+Kfold number '3', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '3', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '3', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '4', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '4', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '4', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['hebrew']'
+Kfold number '4', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '4', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '4', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '5', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '5', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['other']'
+Kfold number '5', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '5', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['other']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '93'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '5', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '6', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '6', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '96'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '96'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '6', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '6', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '96'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '6', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '6', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '96'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '7', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '7', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '7', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '7', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['other']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '7', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '8', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '8', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['hebrew']'
+Kfold number '8', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '89'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '8', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '91'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '9', 'Decision-Tree' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['hebrew']'
+Kfold number '9', 'Decision-Tree' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '9', 'KNN' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '9', 'KNN' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'
+Kfold number '9', 'Navie-Bayes' classifier name, 'other' corpora name:
+The number of the vectors learned '92'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '9', 'Navie-Bayes' classifier name, 'hebrew' corpora name:
+The number of the vectors learned '88'
+The number of the vectors tested '12'
+The list of the wrong languages has been identified '12'

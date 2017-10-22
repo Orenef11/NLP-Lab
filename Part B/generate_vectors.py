@@ -29,7 +29,7 @@ def get_chunks(lines, k):
     last_chunk = []
     last_chunk_size = 0
     for line in lines:
-        if last_chunk_size <= k < last_chunk_size + len(line):
+        if k < last_chunk_size + len(line):
             chunks.append(last_chunk)
             last_chunk = []
             last_chunk_size = 0
@@ -60,13 +60,13 @@ def get_feature_vectors(chunks, header_vector):
                     feature_vector[header_vector[char + line[index + 1]]] += 1
                 if index < len(line) - 2:
                     feature_vector[header_vector[char + line[index + 1] + line[index + 2]]] += 1
-            feature_vectors.append(feature_vector)
+        feature_vectors.append(feature_vector)
 
     return feature_vectors
 
 def main():
     # chunk size
-    k = 5000
+    k = 1000
 
     # load the base feature vector
     print('load the base feature vector')

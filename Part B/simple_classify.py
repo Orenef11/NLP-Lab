@@ -21,9 +21,9 @@ def classify(training_positives, training_negatives, testing_positives, testing_
 
     # train
     print('train')
-    # classifier = svm.LinearSVC(dual=False)
+    classifier = svm.LinearSVC(dual=False)
     #classifier = KNeighborsClassifier()
-    classifier = MLPClassifier(hidden_layer_sizes=(10,))
+    # classifier = MLPClassifier(hidden_layer_sizes=(10,))
 
     classifier.fit(training_x, training_y)
 
@@ -54,7 +54,7 @@ def fold(pack):
 
 
 def main():
-    multi_process = False
+    cores = 1
     # load source and translation vectors
     print('load source and translation vectors')
     with open('source_feature_vectors.pickle.gz', 'rb') as fp:
@@ -65,19 +65,21 @@ def main():
     # split into 10 slices
     print('split into 10 slices')
     slice_size = len(source_feature_vectors) / 10
-    # slice_size = 100
+    # slice_size = 2000
+    print('source slice size ', slice_size)
     positive_slices = [source_feature_vectors[math.ceil(i * slice_size):math.floor((i + 1) * slice_size)] for i in range(10)]
     slice_size = len(translation_feature_vectors) / 10
-    # slice_size = 100
+    # slice_size = 2000
+    print('translation slice size ', slice_size)
     negative_slices = [translation_feature_vectors[math.ceil(i * slice_size):math.floor((i + 1) * slice_size)] for i in range(10)]
 
     # 10 fold
     print('10 fold')
     packed = zip([positive_slices] * 10, [negative_slices] * 10, range(10))
 
-    if multi_process:
+    if cores != 1:
         # multi-process mode
-        with Pool(10) as p:
+        with Pool(cores) as p:
             results = p.map(fold, packed)
     else:
         # single-process mode
@@ -85,12 +87,12 @@ def main():
         for pack in packed:
             results.append(fold(pack))
 
-    total_resilt = 0
+    total_result = 0
     for result in results:
-        total_resilt += result
+        total_result += result
 
-    total_resilt /= 10.0
-    print('total result {0}'.format(total_resilt))
+    total_result /= 10.0
+    print('total result {0}'.format(total_result))
 
 if __name__ == '__main__':
     main()

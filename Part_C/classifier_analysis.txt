@@ -1,0 +1,3056 @@
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '75'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '10'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1174'
+The number of the vectors tested '139'
+The list of the wrong languages has been identified '139'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '198'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '981'
+The number of the vectors tested '107'
+The list of the wrong languages has been identified '107'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '75'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '10'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1174'
+The number of the vectors tested '139'
+The list of the wrong languages has been identified '139'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '198'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '981'
+The number of the vectors tested '107'
+The list of the wrong languages has been identified '107'
+Kfold number '0', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '75'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '0', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '0', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['עברית', 'ספרדית', 'אנגלית']'
+Kfold number '0', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['עברית']'
+Kfold number '0', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1174'
+The number of the vectors tested '139'
+The list of the wrong languages has been identified '139'
+Kfold number '0', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '198'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '9'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '0', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '981'
+The number of the vectors tested '107'
+The list of the wrong languages has been identified '106'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '75'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '9'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1174'
+The number of the vectors tested '139'
+The list of the wrong languages has been identified '139'
+Kfold number '0', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '198'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '0', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '981'
+The number of the vectors tested '107'
+The list of the wrong languages has been identified '106'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '75'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '84'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['צרפתית', 'גרמנית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['נורווגית', 'אנגלית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '0', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1174'
+The number of the vectors tested '139'
+The list of the wrong languages has been identified '137'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '198'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['יידיש', 'אנגלית', 'פולנית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '0', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '0', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '981'
+The number of the vectors tested '107'
+The list of the wrong languages has been identified '100'
+The number of vectors identified correctly '['רוסית', 'פורטוגזית', 'גרמנית', 'עברית', 'ספרדית', 'איטלקית']'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '76'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '10'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '114'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1184'
+The number of the vectors tested '129'
+The list of the wrong languages has been identified '129'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '175'
+The number of the vectors tested '34'
+The list of the wrong languages has been identified '33'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '1', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '982'
+The number of the vectors tested '106'
+The list of the wrong languages has been identified '106'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '76'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '10'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '114'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית', 'גרמנית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1184'
+The number of the vectors tested '129'
+The list of the wrong languages has been identified '129'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '175'
+The number of the vectors tested '34'
+The list of the wrong languages has been identified '32'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '982'
+The number of the vectors tested '106'
+The list of the wrong languages has been identified '106'
+Kfold number '1', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '76'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '1', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית']'
+Kfold number '1', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '114'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['עברית', 'אנגלית', 'ספרדית']'
+Kfold number '1', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '1', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '1', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1184'
+The number of the vectors tested '129'
+The list of the wrong languages has been identified '128'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '175'
+The number of the vectors tested '34'
+The list of the wrong languages has been identified '26'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '1', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '982'
+The number of the vectors tested '106'
+The list of the wrong languages has been identified '103'
+The number of vectors identified correctly '['איטלקית', 'גרמנית', 'ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '76'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '9'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '1', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '114'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '1', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1184'
+The number of the vectors tested '129'
+The list of the wrong languages has been identified '129'
+Kfold number '1', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '175'
+The number of the vectors tested '34'
+The list of the wrong languages has been identified '34'
+Kfold number '1', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'גרמנית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '982'
+The number of the vectors tested '106'
+The list of the wrong languages has been identified '104'
+The number of vectors identified correctly '['רוסית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '76'
+The number of the vectors tested '10'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['איטלקית', 'גרמנית', 'אנגלית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '114'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['הונגרית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '1', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1184'
+The number of the vectors tested '129'
+The list of the wrong languages has been identified '127'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '175'
+The number of the vectors tested '34'
+The list of the wrong languages has been identified '26'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '1', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '1', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '982'
+The number of the vectors tested '106'
+The list of the wrong languages has been identified '101'
+The number of vectors identified correctly '['איטלקית', 'צרפתית', 'גרמנית', 'ספרדית']'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '90'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1175'
+The number of the vectors tested '138'
+The list of the wrong languages has been identified '138'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '193'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '975'
+The number of the vectors tested '113'
+The list of the wrong languages has been identified '113'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['עברית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '90'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'גרמנית', 'ספרדית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1175'
+The number of the vectors tested '138'
+The list of the wrong languages has been identified '138'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '193'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '975'
+The number of the vectors tested '113'
+The list of the wrong languages has been identified '111'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '2', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '2', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '90'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '2', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '2', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['עברית', 'אנגלית', 'ספרדית']'
+Kfold number '2', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'KNN' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '2', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1175'
+The number of the vectors tested '138'
+The list of the wrong languages has been identified '138'
+Kfold number '2', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '193'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '14'
+The number of vectors identified correctly '['אנגלית', 'גרמנית']'
+Kfold number '2', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '2', 'KNN' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '975'
+The number of the vectors tested '113'
+The list of the wrong languages has been identified '109'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '90'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '2', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '2', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1175'
+The number of the vectors tested '138'
+The list of the wrong languages has been identified '138'
+Kfold number '2', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '193'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '16'
+Kfold number '2', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '975'
+The number of the vectors tested '113'
+The list of the wrong languages has been identified '112'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '90'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '2', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['צרפתית', 'ספרדית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['הונגרית', 'אנגלית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['אנגלית', "צ'כית"]'
+Kfold number '2', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1175'
+The number of the vectors tested '138'
+The list of the wrong languages has been identified '138'
+Kfold number '2', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '193'
+The number of the vectors tested '16'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית', 'גרמנית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '2', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '2', 'Decision-Tree' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '2', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '975'
+The number of the vectors tested '113'
+The list of the wrong languages has been identified '103'
+The number of vectors identified correctly '['צרפתית', 'גרמנית', 'עברית', 'ספרדית', 'איטלקית', 'יוונית', 'שוודית']'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '73'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '115'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1189'
+The number of the vectors tested '124'
+The list of the wrong languages has been identified '124'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '18'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '3', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '967'
+The number of the vectors tested '121'
+The list of the wrong languages has been identified '121'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '73'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '115'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '7'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1189'
+The number of the vectors tested '124'
+The list of the wrong languages has been identified '124'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '16'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'גרמנית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['אנגלית', 'גרמנית', 'ספרדית']'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '3', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '967'
+The number of the vectors tested '121'
+The list of the wrong languages has been identified '121'
+Kfold number '3', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '73'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '3', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '3', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '3', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '115'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'KNN' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית', 'אנגלית']'
+Kfold number '3', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '3', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1189'
+The number of the vectors tested '124'
+The list of the wrong languages has been identified '123'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '3', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['אנגלית', 'גרמנית', 'ספרדית']'
+Kfold number '3', 'KNN' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '3', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '967'
+The number of the vectors tested '121'
+The list of the wrong languages has been identified '120'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '73'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '9'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '115'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1189'
+The number of the vectors tested '124'
+The list of the wrong languages has been identified '124'
+Kfold number '3', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '18'
+Kfold number '3', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '967'
+The number of the vectors tested '121'
+The list of the wrong languages has been identified '117'
+The number of vectors identified correctly '['רוסית', 'גרמנית', 'ספרדית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '73'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['איטלקית', 'עברית', 'אנגלית', 'ספרדית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '87'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['צרפתית', 'אנגלית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '115'
+The number of the vectors tested '7'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['איטלקית', 'נורווגית', 'אנגלית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '3', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1189'
+The number of the vectors tested '124'
+The list of the wrong languages has been identified '123'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '16'
+The number of vectors identified correctly '['צרפתית', 'פורטוגזית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['צרפתית', 'אנגלית', 'שוודית', 'יוונית']'
+Kfold number '3', 'Decision-Tree' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '7'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '3', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '967'
+The number of the vectors tested '121'
+The list of the wrong languages has been identified '114'
+The number of vectors identified correctly '['איטלקית', 'הונגרית', 'רוסית', 'גרמנית', 'ספרדית']'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '103'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '19'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1182'
+The number of the vectors tested '131'
+The list of the wrong languages has been identified '131'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '190'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '19'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '984'
+The number of the vectors tested '104'
+The list of the wrong languages has been identified '104'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '103'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['איטלקית', 'אנגלית', 'ספרדית']'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1182'
+The number of the vectors tested '131'
+The list of the wrong languages has been identified '131'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '190'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '19'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '984'
+The number of the vectors tested '104'
+The list of the wrong languages has been identified '104'
+Kfold number '4', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '4', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '103'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['איטלקית', 'עברית', 'אנגלית']'
+Kfold number '4', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1182'
+The number of the vectors tested '131'
+The list of the wrong languages has been identified '129'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '190'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '14'
+The number of vectors identified correctly '['אנגלית', 'גרמנית']'
+Kfold number '4', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '4', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '4', 'KNN' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '984'
+The number of the vectors tested '104'
+The list of the wrong languages has been identified '102'
+The number of vectors identified correctly '['עברית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '4', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '4', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '103'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '19'
+Kfold number '4', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1182'
+The number of the vectors tested '131'
+The list of the wrong languages has been identified '131'
+Kfold number '4', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '190'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '19'
+Kfold number '4', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '984'
+The number of the vectors tested '104'
+The list of the wrong languages has been identified '104'
+Kfold number '4', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['צרפתית', 'עברית', 'אנגלית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '103'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '16'
+The number of vectors identified correctly '['נורווגית', 'אנגלית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '4', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1182'
+The number of the vectors tested '131'
+The list of the wrong languages has been identified '130'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '190'
+The number of the vectors tested '19'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['יוונית', 'אנגלית', 'גרמנית', 'פולנית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '4', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '35'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['עברית', 'פורטוגזית', 'אנגלית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '4', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '984'
+The number of the vectors tested '104'
+The list of the wrong languages has been identified '96'
+The number of vectors identified correctly '['רוסית', 'פורטוגזית', 'גרמנית', 'ספרדית', 'פולנית', 'איטלקית']'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '109'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1190'
+The number of the vectors tested '123'
+The list of the wrong languages has been identified '123'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '185'
+The number of the vectors tested '24'
+The list of the wrong languages has been identified '24'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '5', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '974'
+The number of the vectors tested '114'
+The list of the wrong languages has been identified '113'
+The number of vectors identified correctly '['פורטוגזית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '8'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '109'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '13'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1190'
+The number of the vectors tested '123'
+The list of the wrong languages has been identified '122'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '185'
+The number of the vectors tested '24'
+The list of the wrong languages has been identified '23'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '5', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '974'
+The number of the vectors tested '114'
+The list of the wrong languages has been identified '113'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['עברית']'
+Kfold number '5', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '109'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['עברית', 'ספרדית', 'אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1190'
+The number of the vectors tested '123'
+The list of the wrong languages has been identified '119'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '185'
+The number of the vectors tested '24'
+The list of the wrong languages has been identified '18'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '5', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '5', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '5', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '974'
+The number of the vectors tested '114'
+The list of the wrong languages has been identified '112'
+The number of vectors identified correctly '['עברית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '109'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1190'
+The number of the vectors tested '123'
+The list of the wrong languages has been identified '123'
+Kfold number '5', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '185'
+The number of the vectors tested '24'
+The list of the wrong languages has been identified '24'
+Kfold number '5', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית', 'ספרדית']'
+Kfold number '5', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '974'
+The number of the vectors tested '114'
+The list of the wrong languages has been identified '111'
+The number of vectors identified correctly '['ספרדית', 'גרמנית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '8'
+The number of vectors identified correctly '['פורטוגזית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '109'
+The number of the vectors tested '13'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '5', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1190'
+The number of the vectors tested '123'
+The list of the wrong languages has been identified '123'
+Kfold number '5', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '185'
+The number of the vectors tested '24'
+The list of the wrong languages has been identified '20'
+The number of vectors identified correctly '['איטלקית', 'צרפתית', 'אנגלית', 'גרמנית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '5', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '5', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '974'
+The number of the vectors tested '114'
+The list of the wrong languages has been identified '108'
+The number of vectors identified correctly '['איטלקית', 'צרפתית', 'ספרדית', 'גרמנית', 'שוודית']'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '72'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '14'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '85'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '14'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1176'
+The number of the vectors tested '137'
+The list of the wrong languages has been identified '136'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '18'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '6', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '986'
+The number of the vectors tested '102'
+The list of the wrong languages has been identified '102'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '72'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '85'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1176'
+The number of the vectors tested '137'
+The list of the wrong languages has been identified '136'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '18'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '986'
+The number of the vectors tested '102'
+The list of the wrong languages has been identified '102'
+Kfold number '6', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '72'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '85'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית']'
+Kfold number '6', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '6', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1176'
+The number of the vectors tested '137'
+The list of the wrong languages has been identified '134'
+The number of vectors identified correctly '['אנגלית', 'גרמנית', 'ספרדית']'
+Kfold number '6', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '16'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'KNN' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '6', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '986'
+The number of the vectors tested '102'
+The list of the wrong languages has been identified '102'
+Kfold number '6', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '72'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '85'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '6', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1176'
+The number of the vectors tested '137'
+The list of the wrong languages has been identified '137'
+Kfold number '6', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '17'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '6', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '986'
+The number of the vectors tested '102'
+The list of the wrong languages has been identified '102'
+Kfold number '6', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '72'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '85'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['איטלקית', 'צרפתית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '39'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '6', 'Decision-Tree' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1176'
+The number of the vectors tested '137'
+The list of the wrong languages has been identified '135'
+The number of vectors identified correctly '['גרמנית', 'אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '191'
+The number of the vectors tested '18'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['רוסית', 'גרמנית', 'אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '6', 'Decision-Tree' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '6', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '986'
+The number of the vectors tested '102'
+The list of the wrong languages has been identified '97'
+The number of vectors identified correctly '['צרפתית', 'גרמנית', 'ספרדית']'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '14'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '180'
+The number of the vectors tested '29'
+The list of the wrong languages has been identified '29'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['יוונית']'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '990'
+The number of the vectors tested '98'
+The list of the wrong languages has been identified '98'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '180'
+The number of the vectors tested '29'
+The list of the wrong languages has been identified '27'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '990'
+The number of the vectors tested '98'
+The list of the wrong languages has been identified '98'
+Kfold number '7', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '7', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['צרפתית', 'אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '7', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '7', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '180'
+The number of the vectors tested '29'
+The list of the wrong languages has been identified '24'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '7', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '7', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '990'
+The number of the vectors tested '98'
+The list of the wrong languages has been identified '96'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '7', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '7', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '180'
+The number of the vectors tested '29'
+The list of the wrong languages has been identified '29'
+Kfold number '7', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית', 'אנגלית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית', 'ספרדית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '7', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '990'
+The number of the vectors tested '98'
+The list of the wrong languages has been identified '97'
+The number of vectors identified correctly '['רוסית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '77'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['איטלקית', 'ספרדית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '86'
+The number of the vectors tested '8'
+The list of the wrong languages has been identified '7'
+The number of vectors identified correctly '['נורווגית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '7', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '108'
+The number of the vectors tested '14'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '36'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['צרפתית', 'אנגלית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '13'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '7', 'Decision-Tree' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '129'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '180'
+The number of the vectors tested '29'
+The list of the wrong languages has been identified '23'
+The number of vectors identified correctly '['יוונית', 'אנגלית', 'פורטוגזית', "צ'כית", 'צרפתית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['איטלקית', 'פורטוגזית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '7', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '990'
+The number of the vectors tested '98'
+The list of the wrong languages has been identified '91'
+The number of vectors identified correctly '['עברית', 'גרמנית', 'ספרדית', "צ'כית"]'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '38'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1181'
+The number of the vectors tested '132'
+The list of the wrong languages has been identified '132'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '186'
+The number of the vectors tested '23'
+The list of the wrong languages has been identified '23'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '976'
+The number of the vectors tested '112'
+The list of the wrong languages has been identified '112'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '11'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '38'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '3'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1181'
+The number of the vectors tested '132'
+The list of the wrong languages has been identified '132'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '186'
+The number of the vectors tested '23'
+The list of the wrong languages has been identified '21'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '976'
+The number of the vectors tested '112'
+The list of the wrong languages has been identified '111'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '8', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '8', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['עברית', 'אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '38'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['עברית', 'ספרדית']'
+Kfold number '8', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1181'
+The number of the vectors tested '132'
+The list of the wrong languages has been identified '132'
+Kfold number '8', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '186'
+The number of the vectors tested '23'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['איטלקית', 'אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'KNN' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '976'
+The number of the vectors tested '112'
+The list of the wrong languages has been identified '111'
+The number of vectors identified correctly '['עברית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '6'
+Kfold number '8', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'אנגלית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '9'
+Kfold number '8', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '38'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית', 'ספרדית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1181'
+The number of the vectors tested '132'
+The list of the wrong languages has been identified '131'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '186'
+The number of the vectors tested '23'
+The list of the wrong languages has been identified '23'
+Kfold number '8', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '976'
+The number of the vectors tested '112'
+The list of the wrong languages has been identified '112'
+Kfold number '8', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '80'
+The number of the vectors tested '6'
+The list of the wrong languages has been identified '5'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '83'
+The number of the vectors tested '11'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['איטלקית', 'צרפתית', 'ספרדית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '113'
+The number of the vectors tested '9'
+The list of the wrong languages has been identified '6'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '38'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '8', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1181'
+The number of the vectors tested '132'
+The list of the wrong languages has been identified '132'
+Kfold number '8', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '186'
+The number of the vectors tested '23'
+The list of the wrong languages has been identified '19'
+The number of vectors identified correctly '['גרמנית', 'אנגלית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '17'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '8', 'Decision-Tree' classifier name, 'יוונית' corpora name:
+The number of the vectors learned '11'
+The number of the vectors tested '3'
+The list of the wrong languages has been identified '2'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '8', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '976'
+The number of the vectors tested '112'
+The list of the wrong languages has been identified '108'
+The number of vectors identified correctly '['עברית', 'ערבית', 'רוסית']'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '81'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '107'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '37'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '4'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '192'
+The number of the vectors tested '17'
+The list of the wrong languages has been identified '15'
+The number of vectors identified correctly '['יוונית', 'אנגלית']'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'SVM:One-Vs-All' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '977'
+The number of the vectors tested '111'
+The list of the wrong languages has been identified '111'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '81'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '107'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '37'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['גרמנית']'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '128'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '192'
+The number of the vectors tested '17'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['יוונית', 'אנגלית']'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'SVM:One-Vs-One' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '977'
+The number of the vectors tested '111'
+The list of the wrong languages has been identified '111'
+Kfold number '9', 'KNN' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '81'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '9', 'KNN' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '13'
+The number of vectors identified correctly '['עברית']'
+Kfold number '9', 'KNN' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['עברית']'
+Kfold number '9', 'KNN' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'KNN' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '107'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['צרפתית', 'אנגלית', 'ספרדית']'
+Kfold number '9', 'KNN' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '37'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '3'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'KNN' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'KNN' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'KNN' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'KNN' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '126'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'KNN' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '192'
+The number of the vectors tested '17'
+The list of the wrong languages has been identified '9'
+The number of vectors identified correctly '['אנגלית', 'גרמנית']'
+Kfold number '9', 'KNN' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'KNN' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'KNN' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '2'
+Kfold number '9', 'KNN' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '977'
+The number of the vectors tested '111'
+The list of the wrong languages has been identified '110'
+The number of vectors identified correctly '['עברית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '81'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '5'
+Kfold number '9', 'Navie-Bayes' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '12'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '107'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '15'
+Kfold number '9', 'Navie-Bayes' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '37'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית', 'גרמנית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '130'
+Kfold number '9', 'Navie-Bayes' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '192'
+The number of the vectors tested '17'
+The list of the wrong languages has been identified '17'
+Kfold number '9', 'Navie-Bayes' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['רוסית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Navie-Bayes' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '977'
+The number of the vectors tested '111'
+The list of the wrong languages has been identified '110'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'צרפתית' corpora name:
+The number of the vectors learned '81'
+The number of the vectors tested '5'
+The list of the wrong languages has been identified '4'
+The number of vectors identified correctly '['פורטוגזית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'רוסית' corpora name:
+The number of the vectors learned '79'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '14'
+The number of vectors identified correctly '['צרפתית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'פורטוגזית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['איטלקית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'ערבית' corpora name:
+The number of the vectors learned '10'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'Decision-Tree' classifier name, 'גרמנית' corpora name:
+The number of the vectors learned '107'
+The number of the vectors tested '15'
+The list of the wrong languages has been identified '10'
+The number of vectors identified correctly '['רוסית', 'אנגלית', 'פולנית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'איטלקית' corpora name:
+The number of the vectors learned '37'
+The number of the vectors tested '4'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['יידיש', 'שוודית', 'צרפתית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'צ'כית' corpora name:
+The number of the vectors learned '12'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['ספרדית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'יידיש' corpora name:
+The number of the vectors learned '15'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'Decision-Tree' classifier name, 'שוודית' corpora name:
+The number of the vectors learned '9'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '0'
+The number of vectors identified correctly '['נורווגית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'עברית' corpora name:
+The number of the vectors learned '1183'
+The number of the vectors tested '130'
+The list of the wrong languages has been identified '127'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'ספרדית' corpora name:
+The number of the vectors learned '192'
+The number of the vectors tested '17'
+The list of the wrong languages has been identified '11'
+The number of vectors identified correctly '['יידיש', 'עברית', 'אנגלית', 'יוונית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'פולנית' corpora name:
+The number of the vectors learned '16'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['רוסית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'הונגרית' corpora name:
+The number of the vectors learned '14'
+The number of the vectors tested '1'
+The list of the wrong languages has been identified '1'
+Kfold number '9', 'Decision-Tree' classifier name, 'נורווגית' corpora name:
+The number of the vectors learned '8'
+The number of the vectors tested '2'
+The list of the wrong languages has been identified '1'
+The number of vectors identified correctly '['אנגלית']'
+Kfold number '9', 'Decision-Tree' classifier name, 'אנגלית' corpora name:
+The number of the vectors learned '977'
+The number of the vectors tested '111'
+The list of the wrong languages has been identified '105'
+The number of vectors identified correctly '['איטלקית', 'רוסית', 'גרמנית']'
